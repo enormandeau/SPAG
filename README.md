@@ -7,10 +7,7 @@ de fusées modèles d'un oncle et de son neveu favori de presque 5 ans.
 
 - Définir objectifs
 - Lister idées cool
-- Listes utiles
-  - Matériel pour lancement
-  - Liste avant envol
-  - Liste après envol
+- Créer listes utiles
 
 ## Objectifs
 
