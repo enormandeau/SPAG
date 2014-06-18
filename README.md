@@ -5,21 +5,17 @@ de fusées modèles par un oncle et son neveu favori.
 
 ## À faire
 
-- Définir objectifs
 - Lister idées cool
 - Créer listes utiles
 - Designer Logo
 
 ## Objectifs
 
-- Plaisant
-- Stimulant
-- Pédagogique
-  - Aéronautique
-  - Sécurité
-  - Dextérité
-  - Persévérence
-  - Responsabilités
+- Activité plaisante et stimulante avec neuveu
+- En apprendre plus sur l'aéronautique
+- Apprendre sécurité et responsabiliser
+- Encourager persévérence
+- Développer dextérité
 
 ## Idées cool
 
