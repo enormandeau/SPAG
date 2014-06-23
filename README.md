@@ -16,7 +16,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 - Faire des lancements une activité spéciale
   - Déguisement d'astronaute
-  - Scéances photos
+  - Séances photos
   - Photos et vidéos des lancements
   - Donner responsabilités
 - Fabriquer nos fusées
