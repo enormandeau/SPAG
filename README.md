@@ -16,14 +16,13 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 - Faire des lancements une activité spéciale
   - Déguisement d'astronaute
-  - Séances photos
-  - Photos et vidéos des lancements
+  - Photos et vidéos de l'évènement et des lancements
   - Donner responsabilités
 - Fabriquer nos fusées
 
 ## À faire
 
 - Créer fiche de fusée
-- Créer fiche de vol
-- Designer Logo
+- Améliorer Logo
+- Designer et construire première fusée en carton/balsa
 
