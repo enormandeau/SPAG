@@ -1,5 +1,7 @@
 # SPAG
 
+![Super logo du SPAG!](https://github.com/enormandeau/SPAG/blob/master/logo_spag/logo_spag_v02.png)
+
 Le *Super Programme Aérospatial de Grondine* (**SPAG**) est un projet de vol
 de fusées modèles mené par un oncle et son neveu favori.
 
