@@ -1,0 +1,47 @@
+# NAME
+
+## Description
+
+- **Name**: 
+- **Company**: 
+- **Skill level**: 
+- **Bought on**: 
+- **Recommended engines**: 
+
+## Characteristics
+
+- **Total length**: 
+- **Nose cone length**: 
+- **Body tube diameter**: 
+- **Weight without motor**: 
+- **Fin number**: 
+- **Fin length**: 
+- **Materials**:
+  - Nose cone:
+  - Body Tube:
+  - Fins
+
+## Decoration
+
+- **Nose cone color**: 
+- **Body tube color**: 
+- **Fins color**: 
+- **Decals**: 
+
+## Notes
+
+## Flights
+
+- **Flight #:**
+  - Date: 
+  - Motor: 
+  - Launching plateform: 
+  - Parachute: 
+  - Launch success: 
+  - Flight success: 
+  - Chute deployment: 
+  - Landing success: 
+  - Height: 
+  - Incident: 
+  - Notes: 
+
