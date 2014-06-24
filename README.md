@@ -24,5 +24,11 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 - Créer fiche de fusée
 - Améliorer Logo
+  - Lettres plus grosses et rondes
+  - Contour plus large
+  - Ajoute étoiles
+  - Ajouter reflets sur la fusée
+  - Ajouter léger motifs de feu dans trainée
+  - Rendre logo plus horizontal
 - Designer et construire première fusée en carton/balsa
 
