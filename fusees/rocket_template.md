@@ -7,6 +7,7 @@
 - **Skill level**: 
 - **Bought on**: 
 - **Recommended engines**: 
+- **Projected maximum altitude**: 
 
 ## Characteristics
 
@@ -17,9 +18,9 @@
 - **Fin number**: 
 - **Fin length**: 
 - **Materials**:
-  - Nose cone:
-  - Body Tube:
-  - Fins
+  - Nose cone: 
+  - Body Tube: 
+  - Fins: 
 
 ## Decoration
 
