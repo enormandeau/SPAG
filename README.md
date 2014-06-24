@@ -1,8 +1,6 @@
 # SPAG
 
-![Super logo du SPAG!](https://raw.githubusercontent.com/enormandeau/SPAG/master/logo_spag/logo_spag_v02.png =200x)
-
-<img src="https://raw.githubusercontent.com/enormandeau/SPAG/master/logo_spag/logo_spag_v02.png" alt="Super logo du SPAG!" style"width: 200px;">
+<img src="https://raw.githubusercontent.com/enormandeau/SPAG/master/logo_spag/logo_spag_v02.png" alt="Super logo du SPAG!" style"max-width:40%;">
 
 
 Le *Super Programme Aérospatial de Grondine* (**SPAG**) est un projet de vol
