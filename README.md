@@ -1,4 +1,6 @@
-# ![Super logo du SPAG!](https://raw.githubusercontent.com/enormandeau/SPAG/master/logo_spag/logo_spag_v03_small.png)
+# SPAG
+
+![Super logo du SPAG!](https://raw.githubusercontent.com/enormandeau/SPAG/master/logo_spag/logo_spag_v03_small.png)
 
 Le *Super Programme Aérospatial de Grondine* (**SPAG**) est un projet de vol
 de fusées modèles mené par un oncle et son neveu favori.
@@ -23,6 +25,9 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Créer fiche de fusée
+- Créer fiche de vol en PDF avec 4 vols par page
 - Designer et construire première fusée en carton/balsa
+- Construire les 3 fusées de niveau 1
+  - Une pour tester
+  - Les autes avec Dadou durant notre camp de fusées
 
