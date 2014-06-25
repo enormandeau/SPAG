@@ -1,4 +1,4 @@
-# Riptide
+# ![Estes Riptide](images/estes-riptide.jpg)
 
 ## Description
 
@@ -28,6 +28,8 @@
 - **Body tube color**: Sky blue
 - **Fins color**: Metallic blue
 - **Decals**: Printed text (Riptide)
+
+# Reparations
 
 ## Notes
 
