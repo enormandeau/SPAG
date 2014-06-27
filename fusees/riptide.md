@@ -34,20 +34,6 @@
 ## Notes
 
 - First rocket bought to fly with nephew
+- Came with launching pad
 - Not sure the chute chord is well fixed
-
-## Flights
-
-- **Flight #:**
-  - Date: 
-  - Motor: 
-  - Launching plateform: 
-  - Parachute: 
-  - Launch success: 
-  - Flight success: 
-  - Chute deployment: 
-  - Landing success: 
-  - Height: 
-  - Incident: 
-  - Notes: 
 
