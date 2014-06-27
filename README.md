@@ -17,17 +17,16 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## Idées cool
 
-- Faire des lancements une activité spéciale
-  - Déguisement d'astronaute
-  - Photos et vidéos de l'évènement et des lancements
-  - Donner responsabilités
+- Déguisement d'astronaute
+- Photos et vidéos des lancements
+- Camp de fusées durant vacances
 - Fabriquer nos fusées
 
 ## À faire
 
 - Créer fiche de vol en PDF avec 4 vols par page
-- Designer et construire première fusée en carton/balsa
 - Construire les 3 fusées de niveau 1
   - Une pour tester
-  - Les autes avec Dadou durant notre camp de fusées
+  - Les autes durant le camp de fusées
+- Designer et construire première fusée en carton/balsa
 
