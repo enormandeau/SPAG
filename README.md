@@ -21,11 +21,26 @@ de fusées modèles mené par un oncle et son neveu favori.
 - Camp de fusées durant vacances
 - Fabriquer nos fusées
 
-## À faire
+## Fusées
 
-- Construire les 3 fusées de niveau 1
-  - Une pour tester (reste à peinturer)
-  - Les autes durant le camp de fusées
-- Designer mes propres fusées
-  - Grid Bug en cours de montage
+### Actives
+
+- [Riptide](fusees/riptide.md)
+
+### Pas construites
+
+- [Novia](fusees/novia.md)
+- [Astra](fusees/astra.md)
+
+### En construction
+
+- [Viking](fusees/viking.md)
+  - Peinturer
+- [Grid Bug](fusees/grid_bug.md)
+  - Peinturer
+  - Créer stopeurs de moteurs
+
+### Décommisionnées
+
+(aucune)
 
