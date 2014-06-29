@@ -5,7 +5,6 @@
 Le *Super Programme Aérospatial de Grondine* (**SPAG**) est un projet de vol
 de fusées modèles mené par un oncle et son neveu favori.
 
-
 ## Objectifs
 
 - Activité plaisante et stimulante avec neuveu
@@ -24,9 +23,9 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Créer fiche de vol en PDF avec 4 vols par page
 - Construire les 3 fusées de niveau 1
-  - Une pour tester
+  - Une pour tester (reste à peinturer)
   - Les autes durant le camp de fusées
-- Designer et construire première fusée en carton/balsa
+- Designer mes propres fusées
+  - Grid Bug en cours de montage
 
