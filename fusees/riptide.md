@@ -1,4 +1,14 @@
-# ![Estes Riptide](images/estes-riptide.jpg)
+# Riptide
+
+![Estes Riptide](images/estes-riptide.jpg)
+
+## Images
+
+[Image gallery](http://www.rocketryforum.com/album.php?albumid=588)
+
+## Videos
+
+[Youtube videos](https://www.youtube.com/user/maroonedmorlock/videos)
 
 ## Description
 
@@ -6,6 +16,7 @@
 - **Company**: Estes
 - **Skill level**: RTF (ready to fly)
 - **Bought on**: 2014-06-12
+- **Built on**: 2014-06-28 to ...
 - **Recommended engines**: B4-4, B6-4, C6-5
 - **Projected maximum altitude**: 675 ft. (183 m)
 
