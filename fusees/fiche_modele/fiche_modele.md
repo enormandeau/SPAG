@@ -16,7 +16,7 @@ IMAGE HERE
 - **Company**: 
 - **Skill level**: 
 - **Bought on**: 
-- **Built on**:
+- **Built on**: 
 - **Recommended engines**: 
 - **Projected maximum altitude**: 
 
