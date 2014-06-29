@@ -1,6 +1,6 @@
 # Viking
 
-![Estes Viking](images/viking-riptide.jpg)
+![Estes Viking](images/fusees/viking-riptide.jpg)
 
 ## Album
 
