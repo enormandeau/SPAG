@@ -1,11 +1,22 @@
 # NAME
 
+IMAGE HERE
+
+## Album
+
+[Image gallery](http://www.rocketryforum.com/album.php?u=17046)
+
+## Videos
+
+[Youtube videos](https://www.youtube.com/user/maroonedmorlock/videos)
+
 ## Description
 
 - **Name**: 
 - **Company**: 
 - **Skill level**: 
 - **Bought on**: 
+- **Built on**:
 - **Recommended engines**: 
 - **Projected maximum altitude**: 
 
@@ -32,19 +43,4 @@
 # Reparations
 
 ## Notes
-
-## Flights
-
-- **Flight #:**
-  - Date: 
-  - Motor: 
-  - Launching plateform: 
-  - Parachute: 
-  - Launch success: 
-  - Flight success: 
-  - Chute deployment: 
-  - Landing success: 
-  - Height: 
-  - Incident: 
-  - Notes: 
 
