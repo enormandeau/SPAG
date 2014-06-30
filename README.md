@@ -21,26 +21,14 @@ de fusées modèles mené par un oncle et son neveu favori.
 - Camp de fusées durant vacances
 - Fabriquer nos fusées
 
-## Fusées
+## Flotte de fusées
 
-### Actives
-
-- [Riptide](fusees/riptide.md)
-
-### Pas construites
-
-- [Novia](fusees/novia.md)
-- [Astra](fusees/astra.md)
-
-### En construction
-
-- [Viking](fusees/viking.md)
+- [Riptide](fusees/riptide.md) (active)
+- [Viking](fusees/viking.md) (en construction)
   - Peinturer
-- [Grid Bug](fusees/grid_bug.md)
+- [Grid Bug](fusees/grid_bug.md) (en construction)
   - Peinturer
   - Créer stopeurs de moteurs
-
-### Décommisionnées
-
-(aucune)
+- [Novia](fusees/novia.md) (à construire)
+- [Astra](fusees/astra.md) (à construire)
 
