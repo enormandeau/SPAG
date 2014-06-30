@@ -1,3 +1,7 @@
+----------------------------------------
+title: SPAG
+----------------------------------------
+
 # Viking
 
 ![Estes Viking](../images/fusees/estes-viking.jpg)

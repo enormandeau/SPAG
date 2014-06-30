@@ -1,3 +1,7 @@
+----------------------------------------
+title: SPAG
+----------------------------------------
+
 # SPAG
 
 ![Super logo du SPAG!](https://raw.githubusercontent.com/enormandeau/SPAG/master/images/logo_spag/logo_spag_v03_small.png)
