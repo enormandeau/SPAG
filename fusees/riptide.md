@@ -1,7 +1,3 @@
-----------------------------------------
-title: SPAG
-----------------------------------------
-
 # Riptide
 ![Estes Riptide](../images/fusees/estes-riptide.jpg)
 
