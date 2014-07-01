@@ -17,16 +17,12 @@
 
 - Scotch tape
 - Masking tape
-- Tape électrique
 
 ## Documentation
 
 - Règles de sécurité
-- Fiches de fusées
-- Fiches de lancement
-- Listes de préparation (avant et après lancement)
-- Carnet de notes
-- Crayons
+- Carnet de notes avec fiches de lancement
+- Stylos
 
 ## Divers
 
