@@ -16,10 +16,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## Idées cool
 
-- Déguisement d'astronaute
 - Photos et vidéos des lancements
 - Camp de fusées durant vacances
-- Fabriquer nos fusées
 
 ## Flotte de fusées
 
@@ -28,7 +26,6 @@ de fusées modèles mené par un oncle et son neveu favori.
   - Peinturer
 - [Grid Bug](fusees/grid_bug.md) (en construction)
   - Peinturer
-  - Créer stopeurs de moteurs
 - [Novia](fusees/novia.md) (à construire)
 - [Astra](fusees/astra.md) (à construire)
 
