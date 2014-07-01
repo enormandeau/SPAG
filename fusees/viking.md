@@ -4,11 +4,11 @@
 
 ## Album
 
-[Image gallery](http://www.rocketryforum.com/album.php?u=17046)
+[Construction](http://www.rocketryforum.com/album.php?u=17046)
 
 ## Videos
 
-[Youtube videos](https://www.youtube.com/user/maroonedmorlock/videos)
+[Vidéos Youtube](https://www.youtube.com/user/maroonedmorlock/videos)
 
 ## Description
 
