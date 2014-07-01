@@ -1,13 +1,14 @@
 # Riptide
+
 ![Estes Riptide](../images/fusees/estes-riptide.jpg)
 
 ## Images
 
-[Image gallery](http://www.rocketryforum.com/album.php?albumid=589)
+[Gallerie d'images](http://www.rocketryforum.com/album.php?albumid=589)
 
 ## Videos
 
-[Youtube videos](https://www.youtube.com/user/maroonedmorlock/videos)
+[Vidéos Youtube](https://www.youtube.com/user/maroonedmorlock/videos)
 
 ## Description
 
