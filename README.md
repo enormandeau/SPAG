@@ -25,7 +25,17 @@ de fusées modèles mené par un oncle et son neveu favori.
 - Éditer vidéos
   - Premier vol Viking
   - Premier vol Riptide
-- Remplir fiches de vol des fusées
+- Construire autres kits
+  - Novia
+  - Astra
+- Acheter kits pour Dadou
+  - Astra
+  - Der Red Max
+- Acheter kits pour moi
+  - Der Red Max
+  - Bull Pub 12
+- Construire par moi-même
+  - AIM 54
 - Ajouter fichiers Open Rocket des fusées (.ork)
 
 ## Flotte de fusées
