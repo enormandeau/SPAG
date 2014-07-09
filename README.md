@@ -23,17 +23,20 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Actives
 
-- [**Riptide**](fusees/riptide.md) (**active**, 1 vol)
-- [**Viking**](fusees/viking.md) (**active**, 1 vol)
+- [**Riptide**](fusees/riptide.md) (1 vol)
+- [**Viking**](fusees/viking.md) (1 vol)
   - Réparer aileron endommagé par atterissage
 
 ### En construction
 
-- [**Grid Bug**](fusees/grid_bug.md) (en construction)
+- [**Grid Bug**](fusees/grid_bug.md)
   - Peinturer
   - Tenter de mettre un système de parachute
-- [**Novia**](fusees/novia.md) (*à construire*)
-- [**Astra**](fusees/astra.md) (*à construire*)
+
+### À construire
+
+- [**Novia**](fusees/novia.md)
+- [**Astra**](fusees/astra.md)
 
 ### Décomissionnées
 
