@@ -50,5 +50,5 @@
 
 ## Flights
 
-- 2014-07-08, B6-4, **Maiden flight**: perfect takeoff, flight, deployment, and recovery!
+- #1, 2014-07-08, B6-4, **Maiden flight**: perfect takeoff, flight, deployment, and recovery!
 

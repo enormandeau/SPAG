@@ -42,9 +42,13 @@
 
 ## Reparations
 
+- TODO: Repair dent in fin (following flight #1)
+
 ## Notes
 
 - **Fly with an A motor on maiden flight!**
 
 ## Flights
+
+- #1, 2014-07-08, A8-3, **Maiden flight**: perfect takeoff, flight, and deployment. Recovery on gravel left dent in one fin.
 
