@@ -40,9 +40,11 @@
 - **Fins color**: Green
 - **Decals**: Green, supplied with kit
 
-# Reparations
+## Reparations
 
 ## Notes
 
 - **Fly with an A motor on maiden flight!**
+
+## Flights
 
