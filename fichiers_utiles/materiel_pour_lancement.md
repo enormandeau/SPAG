@@ -17,6 +17,7 @@
 
 - Scotch tape
 - Masking tape
+- Papier sablé
 
 ## Documentation
 
