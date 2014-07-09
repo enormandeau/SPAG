@@ -47,4 +47,5 @@
 - First rocket bought to fly with nephew
 - Came with launching pad
 - Not sure the chute chord is well fixed
+- **Maiden flight:** Perfect flight, deployment, and recovery!
 
