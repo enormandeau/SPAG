@@ -19,6 +19,15 @@ de fusées modèles mené par un oncle et son neveu favori.
 - Photos et vidéos des lancements
 - Camp de fusées durant vacances
 
+## À faire
+
+- Réparer Viking
+- Éditer vidéos
+  - Premier vol Viking
+  - Premier vol Riptide
+- Remplir fiches de vol des fusées
+- Ajouter fichiers Open Rocket des fusées (.ork)
+
 ## Flotte de fusées
 
 ### Actives
