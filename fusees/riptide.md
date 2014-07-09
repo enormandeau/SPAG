@@ -16,18 +16,18 @@
 - **Company**: Estes
 - **Skill level**: RTF (ready to fly)
 - **Bought on**: 2014-06-12
-- **Built on**: 2014-06-28 to ...
+- **Built on**: 2014-06-28 to 2014-06-28
 - **Recommended engines**: B4-4, B6-4, C6-5
 - **Projected maximum altitude**: 675 ft. (183 m)
 
 ## Characteristics
 
 - **Total length**: 18 in. (46 cm)
-- **Nose cone length**: 
+- **Nose cone length**: 7.25 in. (18.5 cm)
 - **Body tube diameter**: 1.35 in. (35 mm)
-- **Weight without motor**: 
-- **Fin number**: 3
-- **Fin length**: 
+- **Weight without motor**: 38 g
+- **Fin number**: 4
+- **Fin length**: 2 in. (5 cm)
 - **Materials**:
   - Nose cone: Plastic
   - Body Tube: Cardboard
@@ -40,12 +40,15 @@
 - **Fins color**: Metallic blue
 - **Decals**: Printed text (Riptide)
 
-# Reparations
+## Reparations
 
 ## Notes
 
 - First rocket bought to fly with nephew
 - Came with launching pad
 - Not sure the chute chord is well fixed
-- **Maiden flight:** Perfect flight, deployment, and recovery!
+
+## Flights
+
+- 2014-07-08, B6-4, **Maiden flight**: perfect takeoff, flight, deployment, and recovery!
 
