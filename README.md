@@ -54,7 +54,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### À construire
 
-#### Moi
+#### Seul
 
 - [**Novia**](fusees/novia.md)
 - [**Der Red Max**](fusees/der_red_max.md)
