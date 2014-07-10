@@ -46,5 +46,5 @@ IMAGE HERE
 
 ## Flights
 
-- #1, yyyy-mm-dd, motor, takeof, flight, deployment, recovery
+- #1, yyyy-mm-dd, wind, motor, takeof, flight, deployment, recovery
 

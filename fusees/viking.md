@@ -50,5 +50,5 @@
 
 ## Flights
 
-- #1, 2014-07-08, A8-3, **Maiden flight**: perfect takeoff, flight, and deployment. Recovery on gravel left dent in one fin.
+- #1, 2014-07-08, east wind 5km, A8-3, **Maiden flight**: perfect takeoff, flight, and deployment. Recovery on gravel left dent in one fin.
 
