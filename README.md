@@ -25,6 +25,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 - Éditer vidéos
   - Premier vol Viking
   - Premier vol Riptide
+- Peinturer commande de démarrage
+  - Noir avec bouton rouge ?
 - Construire autres kits pour moi
   - Novia
   - Der Red Max
