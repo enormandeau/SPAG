@@ -21,20 +21,18 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
+- Ajouter logo SPAG
+  - Viking
+  - Riptide
+  - Manette de démarrage
 - Réparer Viking
+  - Aileron endommagé
+  - Ajouter logo SPAG
 - Éditer vidéos
   - Premier vol Viking
   - Premier vol Riptide
 - Peinturer commande de démarrage
   - Noir avec bouton rouge ?
-- Construire autres kits pour moi
-  - Novia
-  - Der Red Max
-  - Bull Pup
-  - Photon Probe
-- Construire autres kits avec Dadou
-  - Patriot
-  - Astra
 - Construire par moi-même
   - AIM-54
   - AGM-84 Harpoon
@@ -56,10 +54,17 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### À construire
 
+#### Moi
+
 - [**Novia**](fusees/novia.md)
+- [**Der Red Max**](fusees/der_red_max.md)
+- [**Bull Pup**](fusees/bull_pup.md)
+
+#### Avec Dadou
+- [**Patriot**](fusees/patriot.md)
 - [**Astra**](fusees/astra.md)
 
-### Décomissionnées
+### Décomissionnées (brisées, perdues...)
 
 - ...
 
