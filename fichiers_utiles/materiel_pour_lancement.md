@@ -30,5 +30,4 @@
 - Eau
 - Casquette
 - Appareil photo
-- Jumelles
 
