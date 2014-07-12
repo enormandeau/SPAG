@@ -17,13 +17,10 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Réparer Viking
-  - Aileron endommagé
-  - Ajouter logo SPAG
+- Ajouter Logo SPAG sur fusées
 - Peinturer commande de démarrage
   - Noir avec bouton rouge ?
   - Ajouter logo SPAG
-- Ajouter Logo SPAG sur fusée Riptide
 - Éditer vidéos
   - Premier vol Viking
   - Premier vol Riptide
@@ -59,7 +56,10 @@ de fusées modèles mené par un oncle et son neveu favori.
 #### Idées pour futur
 
   - AIM-54 (from scratch)
+  - AGM-62 Walleye
   - AGM-84 Harpoon (from scratch)
+  - AGM-114 Hellfire
+  - Fusée Tintin
 
 ### Décomissionnées (brisées, perdues...)
 
