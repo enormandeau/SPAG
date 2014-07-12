@@ -9,33 +9,24 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 - Activité plaisante et stimulante avec neuveu
 - Créer des bons souvenirs (album photo...)
-- En apprendre plus sur l'aéronautique
 - Apprendre sécurité et responsabiliser
+- En apprendre plus sur l'aéronautique
+- Camp de fusées durant vacances
 - Encourager persévérence
 - Développer dextérité
 
-## Idées cool
-
-- Photos et vidéos des lancements
-- Camp de fusées durant vacances
-
 ## À faire
 
-- Ajouter logo SPAG
-  - Viking
-  - Riptide
-  - Manette de démarrage
 - Réparer Viking
   - Aileron endommagé
   - Ajouter logo SPAG
+- Peinturer commande de démarrage
+  - Noir avec bouton rouge ?
+  - Ajouter logo SPAG
+- Ajouter Logo SPAG sur fusée Riptide
 - Éditer vidéos
   - Premier vol Viking
   - Premier vol Riptide
-- Peinturer commande de démarrage
-  - Noir avec bouton rouge ?
-- Construire par moi-même
-  - AIM-54
-  - AGM-84 Harpoon
 - Ajouter fichiers Open Rocket des fusées (.ork)
 
 ## Flotte de fusées
@@ -48,7 +39,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### En construction
 
-- [**Grid Bug**](fusees/grid_bug.md)
+- [**Grid Bug**](fusees/grid_bug.md) (expérimental)
   - Peinturer
   - Tenter de mettre un système de parachute
 
@@ -56,14 +47,19 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Seul
 
-- [**Novia**](fusees/novia.md)
-- [**Der Red Max**](fusees/der_red_max.md)
-- [**Bull Pup**](fusees/bull_pup.md)
+- [**Novia**](fusees/novia.md) (Similaire à la fusée Viking)
+- [**Der Red Max**](fusees/der_red_max.md) (en attente de livraison)
+- [**Bull Pup**](fusees/bull_pup.md) (en attente de livraison)
 
 #### Avec Dadou
 
-- [**Patriot**](fusees/patriot.md)
-- [**Astra**](fusees/astra.md)
+- [**Patriot**](fusees/patriot.md) (en attente de livraison)
+- [**Astra**](fusees/astra.md) (Plus gros que la Viking)
+
+### Idées pour futur
+
+  - AIM-54 (from scratch)
+  - AGM-84 Harpoon (from scratch)
 
 ### Décomissionnées (brisées, perdues...)
 
