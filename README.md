@@ -39,6 +39,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### En construction
 
+- [**Novia**](fusees/novia.md) (Similaire à la fusée Viking)
 - [**Grid Bug**](fusees/grid_bug.md) (expérimental)
   - Peinturer
   - Tenter de mettre un système de parachute
@@ -47,7 +48,6 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Seul
 
-- [**Novia**](fusees/novia.md) (Similaire à la fusée Viking)
 - [**Der Red Max**](fusees/der_red_max.md) (en attente de livraison)
 - [**Bull Pup**](fusees/bull_pup.md) (en attente de livraison)
 
