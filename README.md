@@ -17,26 +17,24 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
+- Construire des fusées !
 - Ajouter Logo SPAG sur fusées
-- Peinturer commande de démarrage
-  - Noir avec bouton rouge ?
-  - Ajouter logo SPAG
-- Éditer vidéos
-  - Premier vol Viking
-  - Premier vol Riptide
 - Ajouter fichiers Open Rocket des fusées (.ork)
+- Éditer vidéos
 
 ## Flotte de fusées
 
 ### Actives
 
-- [**Riptide**](fusees/riptide.md) (1 vol)
+- [**Riptide**](fusees/riptide.md) (3 vol)
 - [**Viking**](fusees/viking.md) (1 vol)
   - Réparer aileron endommagé par atterissage
 
 ### En construction
 
 - [**Novia**](fusees/novia.md) (Similaire à la fusée Viking)
+  - Filets
+  - Peinturer
 - [**Grid Bug**](fusees/grid_bug.md) (expérimental)
   - Peinturer
   - Tenter de mettre un système de parachute
