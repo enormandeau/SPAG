@@ -50,5 +50,7 @@
 
 ## Flights
 
-- #1, 2014-07-08, east wind 5km, B6-4, **Maiden flight**: perfect takeoff, flight, deployment, and recovery!
+- #1, 2014-07-08, east winds 5km, B6-4, **Maiden flight**: perfect takeoff, flight, deployment, and recovery!
+- #2, 2014-07-12, west winds 15km, B6-4, perfect takeoff, flight, deployment, and recovery!
+- #3, 2014-07-12, west winds 15km, C6-5, perfect takeoff, flight (went high!), deployment, and recovery!
 
