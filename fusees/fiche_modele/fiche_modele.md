@@ -1,10 +1,11 @@
 # NAME
 
 IMAGE HERE
+![Rocket Name](../images/fusees/image-file.jpg)
 
 ## Album
 
-[Image gallery](http://www.rocketryforum.com/album.php?u=17046)
+[Gallerie d'images](http://www.rocketryforum.com/album.php?albumid=###)
 
 ## Videos
 
