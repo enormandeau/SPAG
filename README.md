@@ -17,9 +17,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Construire des fusées !
-- Ajouter Logo SPAG sur fusées
-- Ajouter fichiers Open Rocket des fusées (.ork)
+- Construire fusées
+- Ajouter fichiers Open Rocket
 - Éditer vidéos
 
 ## Flotte de fusées
@@ -28,13 +27,13 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 - [**Riptide**](fusees/riptide.md) (3 vol)
 - [**Viking**](fusees/viking.md) (1 vol)
-  - Réparer aileron endommagé par atterissage
+  - En train d'ajouter du poids au cône
 
 ### En construction
 
-- [**Novia**](fusees/novia.md) (Similaire à la fusée Viking)
-  - Filets
+- [**Novia**](fusees/novia.md)
   - Peinturer
+  - Ajouter streamer
 - [**Grid Bug**](fusees/grid_bug.md) (expérimental)
   - Peinturer
   - Tenter de mettre un système de parachute
@@ -54,9 +53,9 @@ de fusées modèles mené par un oncle et son neveu favori.
 #### Idées pour futur
 
   - AIM-54 (from scratch)
-  - AGM-62 Walleye
   - AGM-84 Harpoon (from scratch)
   - AGM-114 Hellfire
+  - AGM-62 Walleye
   - Fusée Tintin
 
 ### Décomissionnées (brisées, perdues...)
