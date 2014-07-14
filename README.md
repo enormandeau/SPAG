@@ -34,7 +34,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 - [**Novia**](fusees/novia.md)
   - Peinturer
   - Ajouter streamer
-- [**Grid Bug**](fusees/grid_bug.md) (expérimental)
+- [**Grid Bug**](fusees/grid_bug.md)
   - Peinturer
   - Tenter de mettre un système de parachute
 
@@ -48,7 +48,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 #### Avec Dadou
 
 - [**Patriot**](fusees/patriot.md) (en attente de livraison)
-- [**Astra**](fusees/astra.md) (Plus gros que la Viking)
+- [**Astra**](fusees/astra.md)
 
 #### Idées pour futur
 
