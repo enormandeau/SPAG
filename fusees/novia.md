@@ -13,12 +13,12 @@
 ## Description
 
 - **Name**: Novia
-- **Company**: Questx
+- **Company**: Quest
 - **Skill level**: 1
 - **Bought on**: 2014-06-23
 - **Built on**: 2014-07-12 to ...
 - **Recommended engines**: A6-4, A8-5, **B6-4, B6-5, C6-5**, C6-7
-- **Projected maximum altitude**: 1800 ft. (548 m.) Really???
+- **Projected maximum altitude**: 1800 ft. (548 m.)
 
 ## Characteristics
 
