@@ -52,6 +52,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Idées pour futur
 
+  - Estes SR-71 Blackbird
   - AIM-54 (from scratch)
   - AGM-84 Harpoon (from scratch)
   - AGM-114 Hellfire
