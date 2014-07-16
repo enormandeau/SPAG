@@ -17,11 +17,16 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
+- Ajouter info nouvelles (et futures) fusées
+  - Caractéristiques
+  - Photos
 - Construire fusées
 - Éditer fichiers Open Rocket (versions stock)
 - Soumettre fichiers Open Rocket sur www.thrustcurve.com
 
 ## Flotte de fusées
+
+[Galleries d'images](http://www.rocketryforum.com/album.php?u=17046)
 
 ### Actives
 
@@ -42,22 +47,23 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Seul
 
+- [**Astra**](fusees/astra.md) (Assembler et peinturer en blanc pour Dadou)
 - [**Der Red Max**](fusees/der_red_max.md) (en attente de livraison)
 - [**Bull Pup**](fusees/bull_pup.md) (en attente de livraison)
 
 #### Avec Dadou
 
 - [**Patriot**](fusees/patriot.md) (en attente de livraison)
-- [**Astra**](fusees/astra.md)
 
 #### Idées pour futur
 
-  - Estes SR-71 Blackbird
-  - Estes Photon Probe
-  - AIM-54 (from scratch)
-  - AGM-84 Harpoon (from scratch)
   - AGM-114 Hellfire
   - AGM-62 Walleye
+  - AGM-84 Harpoon (from scratch)
+  - AIM-54 (from scratch)
+  - Autre Der Red Max plus lourd et lent
+  - Estes Photon Probe
+  - Estes SR-71 Blackbird
   - Fusée Tintin
 
 ### Décomissionnées (brisées, perdues...)
