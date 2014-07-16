@@ -17,12 +17,12 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
+- Photographier kits avant de construire
 - Ajouter info nouvelles (et futures) fusées
   - Caractéristiques
   - Photos
-- Construire fusées
 - Éditer fichiers Open Rocket (versions stock)
-- Soumettre fichiers Open Rocket sur www.thrustcurve.com
+  - Soumettre www.thrustcurve.com
 
 ## Flotte de fusées
 
