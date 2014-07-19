@@ -1,6 +1,6 @@
 # NAME
 
-![Astra 1](../fusees/images/quest-astra_1.jpg)
+![Astra 1](../images/quest-astra_1.jpg)
 
 ## Album
 
