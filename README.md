@@ -47,7 +47,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Seul
 
-- [**Astra**](fusees/fiches/astra_1.md) (Assembler et peinturer en blanc pour Dadou)
+- [**Astra 1**](fusees/fiches/astra_1.md) (Assembler et peinturer en blanc pour Dadou)
 - [**Der Red Max**](fusees/fiches/der_red_max.md) (en attente de livraison)
 - [**Bull Pup**](fusees/fiches/bull_pup.md) (en attente de livraison)
 
@@ -66,7 +66,7 @@ de fusées modèles mené par un oncle et son neveu favori.
   - Estes SR-71 Blackbird
   - Fusée Tintin
 
-### Décomissionnées (brisées, perdues...)
+### Décomissionnées (brisées, perdues, données...)
 
 - ...
 

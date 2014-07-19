@@ -2,7 +2,7 @@
 
 IMAGE HERE
 
-## Images
+## Album
 
 [Construction](http://www.rocketryforum.com/album.php?albumid=592)
 

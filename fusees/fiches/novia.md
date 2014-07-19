@@ -1,6 +1,6 @@
 # NAME
 
-![Quest Novia](../images/fusees/quest-novia.jpg)
+![Quest Novia](../fusees/images/quest-novia.jpg)
 
 ## Album
 

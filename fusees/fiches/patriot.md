@@ -1,7 +1,6 @@
 # NAME
 
-IMAGE HERE
-![Rocket Name](../images/fusees/image-file.jpg)
+![Rocket Name](../fusees/images/image-file.jpg)
 
 ## Album
 
