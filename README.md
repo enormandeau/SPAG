@@ -7,13 +7,12 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## Objectifs
 
-- Activité plaisante et stimulante avec neuveu
+- Activité plaisante et stimulante avec neveu
 - Créer des bons souvenirs (album photo...)
-- Apprendre sécurité et responsabiliser
+- Développer sécurité et responsabiliser
 - En apprendre plus sur l'aéronautique
 - Camp de fusées durant vacances
 - Encourager persévérence
-- Développer dextérité
 
 ## À faire
 
