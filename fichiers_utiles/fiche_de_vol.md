@@ -2,6 +2,7 @@
 
 - Fusée : 
 - Date : 
+- Vents :
 - Moteur : 
 - Plateforme de lancement : 
 - Parachute : 
