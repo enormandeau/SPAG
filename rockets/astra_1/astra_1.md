@@ -1,10 +1,10 @@
 # NAME
 
-![Astra 1](../images/quest-astra_1.jpg)
+![Astra 1](./images/quest-astra_1.jpg)
 
 ## Album
 
-[Gallerie d'images](http://www.rocketryforum.com/album.php?albumid=601)
+[Gallerie d'images](./album.md)
 
 ## Videos
 
