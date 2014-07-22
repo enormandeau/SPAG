@@ -42,11 +42,11 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Seul
 
-- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (en attente de livraison)
+- [**Bull Pup**](rockets/bull_pup/bull_pup.md)
 
 #### Avec Dadou
 
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (en attente de livraison)
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md)
 
 #### Idées pour futur
 
