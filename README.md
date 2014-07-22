@@ -55,7 +55,8 @@ de fusées modèles mené par un oncle et son neveu favori.
   - [AIM-54 (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
   - [FLAIL](http://www.the-launch-pad.com/#!blank/c1j13)
   - [Photon Probe](http://www.allrocketengines.ca/Rockets/Photon-Probe)
-  - [Fusée Tintin](http://en.wikipedia.org/wiki/Explorers_on_the_Moon) à partir d'un kit V2
+  - [Fusée Tintin](http://en.wikipedia.org/wiki/Explorers_on_the_Moon) à partir
+    d'un kit [V2](http://www.allrocketengines.ca/Rockets/V2)
   - [Der Red Max](http://www.estesrockets.com/der-red-maxtm) plus lourd et lent
 
 ### Décomissionnées (brisées, perdues, données...)
