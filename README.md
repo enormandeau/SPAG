@@ -56,12 +56,12 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Idées pour futur
 
-  - AGM-114 Helfire [AGM-114 Hellfire](http://www.the-launch-pad.com/#!hellfire/c14ur)
-  - AGM-84 Harpoon (from scratch) [AGM-84 Harpoon](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
-  - AIM-54 (from scratch) [AIM-54 (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
-  - FLAIL [FLAIL](http://www.the-launch-pad.com/#!blank/c1j13)
+  - [AGM-114 Hellfire](http://www.the-launch-pad.com/#!hellfire/c14ur)
+  - [AGM-84 Harpoon](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
+  - [AIM-54 (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
+  - [FLAIL](http://www.the-launch-pad.com/#!blank/c1j13)
+  - [Photon Probe](http://www.allrocketengines.ca/Rockets/Photon-Probe)
   - Deuxième Der Red Max plus lourd et lent
-  - Estes Photon Probe [Photon Probe](http://www.allrocketengines.ca/Rockets/Photon-Probe)
   - Fusée Tintin
 
 ### Décomissionnées (brisées, perdues, données...)
