@@ -1,5 +1,7 @@
 # Quest Astra 1 album
 
+![quest-astra_1.jpg](./images/quest-astra_1.jpg)
+
 ## Flying
 
 Photos to come
@@ -20,4 +22,10 @@ inside the tube and made fillets.
 ![motor mount](./images/02_motor_mount_small.jpg)
 ![motor mount and fins](./images/03_motor_mount_and_sanded_fins_small.jpg)
 ![tube motor mount and fillet](./images/04_tube_with_motor_mount_and_fillet_small.jpg)
+
+## To classify
+
+![05_fin_fillets_drying_small.jpg](./images/05_fin_fillets_drying_small.jpg)
+![06_tube_with_fins_small.jpg](./images/06_tube_with_fins_small.jpg)
+![07_assembled_unpainted_small.jpg](./images/07_assembled_unpainted_small.jpg)
 
