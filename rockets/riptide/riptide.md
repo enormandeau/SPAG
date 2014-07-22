@@ -1,10 +1,10 @@
 # Riptide
 
-![Estes Riptide](../images/estes-riptide.jpg)
+![Estes Riptide](./images/estes-riptide.jpg)
 
 ## Images
 
-[Gallerie d'images](http://www.rocketryforum.com/album.php?albumid=594)
+[Gallerie d'images](./album.md)
 
 ## Videos
 
