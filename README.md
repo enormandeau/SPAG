@@ -1,4 +1,4 @@
-# SPAG
+ SPAG
 
 ![Super logo du SPAG!](https://raw.githubusercontent.com/enormandeau/SPAG/master/logo/logo_spag_v03_small.png)
 
@@ -16,10 +16,10 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Photographier kits avant de construire
+- Transférer albums sur GitHub
+- Passer repository à l'anglais
+- Ajouter lien dans ma signature sur TRF
 - Ajouter info nouvelles (et futures) fusées
-  - Caractéristiques
-  - Photos
 - Éditer fichiers Open Rocket (versions stock)
   - Soumettre www.thrustcurve.com
 
@@ -33,24 +33,20 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### En construction
 
+- [**Astra 1**](rockets/astra_1/astra_1.md)
+- [**Patriot**](rockets/patriot/patriot.md)
 - [**Novia**](rockets/novia/novia.md)
-  - Peinturer
-  - Ajouter streamer
 - [**Grid Bug**](rockets/grid_bug/grid_bug.md)
-  - Peinturer
-  - Tenter de mettre un système de parachute
 
 ### À construire
 
 #### Seul
 
-- [**Astra 1**](rockets/astra_1/astra_1.md) (Assembler et peinturer en blanc pour Dadou)
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (en attente de livraison)
 - [**Bull Pup**](rockets/bull_pup/bull_pup.md) (en attente de livraison)
 
 #### Avec Dadou
 
-- [**Patriot**](rockets/patriot/patriot.md) (en attente de livraison)
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (en attente de livraison)
 
 #### Idées pour futur
 
@@ -59,10 +55,9 @@ de fusées modèles mené par un oncle et son neveu favori.
   - [AIM-54 (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
   - [FLAIL](http://www.the-launch-pad.com/#!blank/c1j13)
   - [Photon Probe](http://www.allrocketengines.ca/Rockets/Photon-Probe)
-  - [Fusée Tintin](http://en.wikipedia.org/wiki/Explorers_on_the_Moon)
+  - [Fusée Tintin](http://en.wikipedia.org/wiki/Explorers_on_the_Moon) à partir d'un kit V2
   - [Der Red Max](http://www.estesrockets.com/der-red-maxtm) plus lourd et lent
 
 ### Décomissionnées (brisées, perdues, données...)
 
-- ...
 
