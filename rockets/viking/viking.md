@@ -1,10 +1,10 @@
 # Viking
 
-![Estes Viking](../images/estes-viking.jpg)
+![Estes Viking](images/estes-viking.jpg)
 
 ## Album
 
-[Construction](http://www.rocketryforum.com/album.php?albumid=589)
+[Construction](album.md)
 
 ## Videos
 

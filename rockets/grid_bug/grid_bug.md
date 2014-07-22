@@ -1,10 +1,10 @@
 # Grid Bug
 
-IMAGE HERE
+![Estes Riptide](images/estes-riptide.jpg)
 
-## Album
+## Images
 
-[Construction](http://www.rocketryforum.com/album.php?albumid=592)
+[Gallerie d'images](album.md)
 
 ## Videos
 

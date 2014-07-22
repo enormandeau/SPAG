@@ -1,10 +1,10 @@
 # Riptide
 
-![Estes Riptide](./images/estes-riptide.jpg)
+![Estes Riptide](images/estes-riptide.jpg)
 
 ## Images
 
-[Gallerie d'images](./album.md)
+[Gallerie d'images](album.md)
 
 ## Videos
 
