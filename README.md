@@ -25,20 +25,18 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## Flotte de fusées
 
-[Galleries d'images](http://www.rocketryforum.com/album.php?u=17046)
-
 ### Actives
 
-- [**Riptide**](fusees/fiches/riptide.md) (3 vol)
-- [**Viking**](fusees/fiches/viking.md) (1 vol)
+- [**Riptide**](rocket/riptide/riptide.md) (3 vol)
+- [**Viking**](rocket/viking/viking.md) (1 vol)
   - En train d'ajouter du poids au cône
 
 ### En construction
 
-- [**Novia**](fusees/fiches/novia.md)
+- [**Novia**](rocket/novia/novia.md)
   - Peinturer
   - Ajouter streamer
-- [**Grid Bug**](fusees/fiches/grid_bug.md)
+- [**Grid Bug**](rocket/grid_bug/grid_bug.md)
   - Peinturer
   - Tenter de mettre un système de parachute
 
@@ -46,13 +44,13 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Seul
 
-- [**Astra 1**](fusees/fiches/astra_1.md) (Assembler et peinturer en blanc pour Dadou)
-- [**Der Red Max**](fusees/fiches/der_red_max.md) (en attente de livraison)
-- [**Bull Pup**](fusees/fiches/bull_pup.md) (en attente de livraison)
+- [**Astra 1**](rocket/astra_1/astra_1.md) (Assembler et peinturer en blanc pour Dadou)
+- [**Der Red Max**](rocket/der_red_max/der_red_max.md) (en attente de livraison)
+- [**Bull Pup**](rocket/bull_pup/bull_pup.md) (en attente de livraison)
 
 #### Avec Dadou
 
-- [**Patriot**](fusees/fiches/patriot.md) (en attente de livraison)
+- [**Patriot**](rocket/patriot/patriot.md) (en attente de livraison)
 
 #### Idées pour futur
 
