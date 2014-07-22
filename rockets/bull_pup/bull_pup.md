@@ -1,10 +1,10 @@
 # NAME
 
-![Rocket Name](../images/image-file.jpg)
+![Bull Pub](images/estes-bull_pup.jpg)
 
 ## Album
 
-[Gallerie d'images](http://www.rocketryforum.com/album.php?albumid=###)
+[Gallerie d'images](album.md)
 
 ## Videos
 

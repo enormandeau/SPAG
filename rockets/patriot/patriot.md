@@ -1,10 +1,10 @@
 # NAME
 
-![Rocket Name](../images/image-file.jpg)
+![Patriot](images/estes-patriot.jpg)
 
 ## Album
 
-[Gallerie d'images](http://www.rocketryforum.com/album.php?albumid=###)
+[Gallerie d'images](album.md)
 
 ## Videos
 

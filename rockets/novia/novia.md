@@ -1,10 +1,10 @@
 # NAME
 
-![Quest Novia](../images/quest-novia.jpg)
+![Quest Novia](images/quest-novia.jpg)
 
 ## Album
 
-[Gallerie d'images](http://www.rocketryforum.com/album.php?albumid=597)
+[Gallerie d'images](album.md)
 
 ## Videos
 
