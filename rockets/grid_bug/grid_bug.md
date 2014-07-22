@@ -1,6 +1,6 @@
 # Grid Bug
 
-![Estes Riptide](images/scratch-grid_bug.jpg)
+![Grid Bug](images/scratch-grid_bug.jpg)
 
 ## Images
 

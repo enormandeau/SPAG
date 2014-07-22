@@ -1,6 +1,6 @@
 # NAME
 
-![Rocket Name](images/estes-der_red_max.jpg)
+![Der Red Max](images/estes-der_red_max.jpg)
 
 ## Album
 

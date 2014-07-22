@@ -1,6 +1,6 @@
 # Riptide
 
-![Estes Riptide](images/estes-riptide.jpg)
+![Riptide](images/estes-riptide.jpg)
 
 ## Images
 
