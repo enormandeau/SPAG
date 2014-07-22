@@ -17,11 +17,11 @@ de fusées modèles mené par un oncle et son neveu favori.
 ## À faire
 
 - Transférer albums sur GitHub
-- Passer repository à l'anglais
-- Ajouter lien dans ma signature sur TRF
 - Ajouter info nouvelles (et futures) fusées
 - Éditer fichiers Open Rocket (versions stock)
   - Soumettre www.thrustcurve.com
+- Passer repository à l'anglais
+- Ajouter lien dans ma signature sur TRF
 
 ## Flotte de fusées
 
