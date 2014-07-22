@@ -62,7 +62,7 @@ de fusées modèles mené par un oncle et son neveu favori.
   - [FLAIL](http://www.the-launch-pad.com/#!blank/c1j13)
   - [Photon Probe](http://www.allrocketengines.ca/Rockets/Photon-Probe)
   - [Fusée Tintin](http://en.wikipedia.org/wiki/Explorers_on_the_Moon)
-  - [Deuxième Der Red Max plus lourd et lent](http://www.estesrockets.com/der-red-maxtm)
+  - Deuxième [Der Red Max](http://www.estesrockets.com/der-red-maxtm) plus lourd et lent
 
 ### Décomissionnées (brisées, perdues, données...)
 
