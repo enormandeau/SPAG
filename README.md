@@ -40,13 +40,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### À construire
 
-#### Seul
-
-- [**Bull Pup**](rockets/bull_pup/bull_pup.md)
-
-#### Avec Dadou
-
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md)
+- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (seul)
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (avec Dadou)
 
 #### Idées pour futur
 
