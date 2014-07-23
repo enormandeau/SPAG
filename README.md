@@ -16,6 +16,11 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
+- Tenter à nouveau de faire un site `github.io` avec le repo SPAG
+  - Enlever `*.html` du `.gitignore`
+  - Changer les liens vers les fichiers `.md` pour `.html`
+  - Renomer automatiquement `README.md.html` en `index.html`
+  - Rediriger dans le `README.md` vers le `github.io`
 - Trouver une façon que git traite les fichiers .ork comme du texte
 - Ajouter info nouvelles (et futures) fusées
 - Éditer fichiers Open Rocket (versions stock)
