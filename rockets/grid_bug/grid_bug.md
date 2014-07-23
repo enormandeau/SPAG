@@ -1,6 +1,6 @@
 # Grid Bug
 
-![Grid Bug](images/scratch-grid_bug.jpg)
+![Grid Bug](images/01_concept_art_small.jpg)
 
 ## Images
 
