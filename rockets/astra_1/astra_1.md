@@ -4,7 +4,7 @@
 
 ## Album
 
-[Gallerie d'images](album.md)
+[Gallerie d'images](album.md.html)
 
 ## Description
 

@@ -5,3 +5,5 @@ do
     markdown $i > $i.html
 done
 
+cp README.md.html index.html
+
