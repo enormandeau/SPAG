@@ -1,4 +1,4 @@
-# Riptide album
+# Riptide Gallery
 
 ![estes-riptide.jpg](./images/estes-riptide.jpg)
 

@@ -1,10 +1,10 @@
-# Viking
+# Viking Gallery
 
 ![Estes Viking](images/estes-viking.jpg)
 
 ## Album
 
-[Construction](album.md)
+[Gallerie d'images](album.md)
 
 ## Videos
 
