@@ -1,4 +1,4 @@
-# Rocket Name album
+# Riptide album
 
 ![estes-riptide.jpg](./images/estes-riptide.jpg)
 
