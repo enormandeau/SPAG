@@ -10,15 +10,3 @@ setup in the secont photo.
 ![01_on_launchpad_small.JPG](./images/01_on_launchpad_small.JPG)
 ![02_on_launchpad_with_camera_small.jpg](./images/02_on_launchpad_with_camera_small.jpg)
 
-## Building
-
-### Opening the kit
-
-### Preparing and building the parts
-
-### Painting
-
-### Finished
-
-## To classify
-
