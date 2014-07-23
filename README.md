@@ -26,7 +26,7 @@ Vous pouvez visionner ce site au [www.github.io](www.github.io)
 - Trouver une façon que git traite les fichiers .ork comme du texte
 - Ajouter info nouvelles (et futures) fusées
 - Éditer fichiers Open Rocket (versions stock)
-  - Soumettre www.thrustcurve.com
+  - Soumettre [www.thrustcurve.com](www.thrustcurve.com)
 - Ajouter lien dans ma signature sur TRF
 
 ## Flotte de fusées
