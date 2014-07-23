@@ -4,11 +4,7 @@
 
 ## Album
 
-[Gallerie d'images](./album.md)
-
-## Videos
-
-[Youtube videos](https://www.youtube.com/user/maroonedmorlock/videos)
+[Gallerie d'images](album.md)
 
 ## Description
 

@@ -6,10 +6,6 @@
 
 [Gallerie d'images](album.md)
 
-## Videos
-
-[Vidéos Youtube](https://www.youtube.com/user/maroonedmorlock/videos)
-
 ## Description
 
 - **Name**: Viking
