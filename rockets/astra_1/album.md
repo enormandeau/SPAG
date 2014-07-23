@@ -4,8 +4,6 @@
 
 ## Flying
 
-Photos to come
-
 ## Building
 
 ### Opening the kit

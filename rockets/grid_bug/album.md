@@ -2,8 +2,6 @@
 
 ## Flying
 
-Photos to come
-
 ## Building
 
 ### Concept art

@@ -1,4 +1,4 @@
-# NAME
+# Patriot
 
 ![Patriot](images/estes-patriot.jpg)
 
