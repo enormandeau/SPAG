@@ -1,4 +1,4 @@
-# NAME
+# Der Red Max
 
 ![Der Red Max](images/estes-der_red_max.jpg)
 

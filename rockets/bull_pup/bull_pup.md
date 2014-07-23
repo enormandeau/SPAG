@@ -1,6 +1,6 @@
-# NAME
+# Bull Pup
 
-![Bull Pub](images/estes-bull_pup.jpg)
+![Bull Pup](images/estes-bull_pup.jpg)
 
 ## Album
 

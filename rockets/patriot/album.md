@@ -1,4 +1,4 @@
-# Patriot Galler
+# Patriot Gallery
 
 ## Flying
 
