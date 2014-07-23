@@ -2,7 +2,7 @@
 
 ![estes-riptide.jpg](./images/estes-riptide.jpg)
 
-## Flying
+## Ready to fly
 
 The Riptide sitting on the launchpad, ready to soar. Note the high tech camera
 setup in the secont photo.
