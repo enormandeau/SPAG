@@ -22,6 +22,7 @@ Vous pouvez visionner ce site au [www.github.io](www.github.io)
 
 - Tenter à nouveau de faire un site `github.io` avec le repo SPAG
   - Rediriger dans le `README.md.html` vers le `github.io` (...)
+  - Ajouter un lien vers la page titre dans chaque page (SPAG Home)
 - Trouver une façon que git traite les fichiers .ork comme du texte
 - Ajouter info nouvelles (et futures) fusées
 - Éditer fichiers Open Rocket (versions stock)

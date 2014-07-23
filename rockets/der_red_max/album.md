@@ -1,3 +1,5 @@
+[SPAG Home](www.github.io)
+
 # Der Red Max Gallery
 
 ![Der Red Max](images/estes-der_red_max.jpg)
