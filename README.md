@@ -16,7 +16,6 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Passer repository à l'anglais
 - Trouver une façon que git traite les fichiers .ork comme du texte
 - Ajouter info nouvelles (et futures) fusées
 - Éditer fichiers Open Rocket (versions stock)
