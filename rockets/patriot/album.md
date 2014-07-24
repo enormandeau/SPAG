@@ -1,5 +1,3 @@
-[SPAG Home](www.github.io)
-
 # Patriot Gallery
 
 ## Flying

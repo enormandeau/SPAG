@@ -1,5 +1,3 @@
-[SPAG Home](www.github.io)
-
 # Bull Pup
 
 ![Bull Pup](images/estes-bull_pup.jpg)

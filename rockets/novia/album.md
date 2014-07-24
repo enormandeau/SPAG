@@ -1,5 +1,3 @@
-[SPAG Home](www.github.io)
-
 # Novia Gallery
 
 ![quest-novia.jpg](./images/quest-novia.jpg)

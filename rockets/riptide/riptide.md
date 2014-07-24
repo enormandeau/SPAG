@@ -1,5 +1,3 @@
-[SPAG Home](www.github.io)
-
 # Riptide
 
 ![Riptide](images/estes-riptide.jpg)

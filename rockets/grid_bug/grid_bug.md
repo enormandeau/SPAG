@@ -1,5 +1,3 @@
-[SPAG Home](www.github.io)
-
 # Grid Bug
 
 ![Grid Bug](images/01_concept_art_small.jpg)

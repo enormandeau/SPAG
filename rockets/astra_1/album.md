@@ -1,5 +1,3 @@
-[SPAG Home](www.github.io)
-
 # Quest Astra 1 Gallery
 
 ![quest-astra_1.jpg](./images/quest-astra_1.jpg)

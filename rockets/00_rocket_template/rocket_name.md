@@ -1,5 +1,3 @@
-[SPAG Home](www.github.io)
-
 # NAME
 
 ![Rocket Name](./images/image-file.jpg)
