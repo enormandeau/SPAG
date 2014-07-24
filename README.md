@@ -17,7 +17,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 ## À faire
 
 - Tenter à nouveau de faire un site `github.io` avec le repo SPAG
-  - Rediriger dans le `README.md.html` vers le `github.io` (...)
+  - Rediriger dans le `README.md)
   - Ajouter un lien vers la page titre dans chaque page (SPAG Home)
 - Trouver une façon que git traite les fichiers .ork comme du texte
 - Ajouter info nouvelles (et futures) fusées
@@ -29,21 +29,21 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Actives
 
-- [**Riptide**](rockets/riptide/riptide.md.html) (3 vol)
-- [**Viking**](rockets/viking/viking.md.html) (1 vol)
+- [**Riptide**](rockets/riptide/riptide.md) (3 vol)
+- [**Viking**](rockets/viking/viking.md) (1 vol)
   - En train d'ajouter du poids au cône
 
 ### En construction
 
-- [**Astra 1**](rockets/astra_1/astra_1.md.html)
-- [**Patriot**](rockets/patriot/patriot.md.html)
-- [**Novia**](rockets/novia/novia.md.html)
-- [**Grid Bug**](rockets/grid_bug/grid_bug.md.html)
+- [**Astra 1**](rockets/astra_1/astra_1.md)
+- [**Patriot**](rockets/patriot/patriot.md)
+- [**Novia**](rockets/novia/novia.md)
+- [**Grid Bug**](rockets/grid_bug/grid_bug.md)
 
 ### À construire
 
-- [**Bull Pup**](rockets/bull_pup/bull_pup.md.html) (seul)
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md.html) (avec Dadou)
+- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (seul)
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (avec Dadou)
 
 #### Idées pour futur
 
