@@ -5,3 +5,5 @@ do
     rm "$i"
 done
 
+rm index.html
+
