@@ -18,3 +18,6 @@
 
 ### Finished
 
+
+![./images/patriot_rendering.png](./images/patriot_rendering.png)
+
