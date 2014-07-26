@@ -8,33 +8,33 @@
 
 ## Description
 
-- **Name**: 
-- **Company**: 
-- **Skill level**: 
-- **Bought on**: 
-- **Built on**: 
-- **Recommended engines**: 
-- **Projected maximum altitude**: 
+- **Name**: Patriot
+- **Company**: Estes
+- **Skill level**: 1
+- **Bought on**: 2014-07-09
+- **Built on**: 2014-07-18 to ...
+- **Recommended engines**: B4-4, B6-4, C6-5
+- **Projected maximum altitude**: 183 m
 
 ## Characteristics
 
-- **Total length**: 
+- **Total length**: 21.3 in. (54 cm)
 - **Nose cone length**: 
-- **Body tube diameter**: 
-- **Weight without motor**: 
-- **Fin number**: 
-- **Fin length**: 
+- **Body tube diameter**: 1.64 in. (42 mm)
+- **Weight without motor**: 57 g
+- **Fin number**: 4
+- **Fin length**: 35 mm
 - **Materials**:
-  - Nose cone: 
-  - Body Tube: 
-  - Fins: 
+  - Nose cone: Plastic
+  - Body Tube: Cardboard
+  - Fins: Balsa
 
 ## Decoration
 
-- **Nose cone color**: 
-- **Body tube color**: 
-- **Fins color**: 
-- **Decals**: 
+- **Nose cone color**: White
+- **Body tube color**: White, yellow and red
+- **Fins color**: Red
+- **Decals**: Kit decals, except 'Patriot' name
 
 ## Reparations
 
