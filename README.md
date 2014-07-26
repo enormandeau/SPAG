@@ -36,8 +36,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 ### En construction
 
 - [**Astra 1**](rockets/astra_1/astra_1.md)
-- [**Patriot**](rockets/patriot/patriot.md)
 - [**Novia**](rockets/novia/novia.md)
+- [**Patriot**](rockets/patriot/patriot.md)
 - [**Grid Bug**](rockets/grid_bug/grid_bug.md)
 
 ### À construire
