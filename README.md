@@ -16,14 +16,11 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Tenter à nouveau de faire un site `github.io` avec le repo SPAG
-  - Rediriger dans le `README.md)
-  - Ajouter un lien vers la page titre dans chaque page (SPAG Home)
-- Trouver une façon que git traite les fichiers .ork comme du texte
 - Ajouter info nouvelles (et futures) fusées
+- Trouver une façon que git traite les fichiers .ork comme du texte
 - Éditer fichiers Open Rocket (versions stock)
   - Soumettre [www.thrustcurve.com](www.thrustcurve.com)
-- Ajouter lien dans ma signature sur TRF
+- Ajouter lien SPAG dans ma signature sur TRF
 
 ## Flotte de fusées
 
@@ -47,16 +44,17 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Idées pour futur
 
-  - [AGM-114 Hellfire](http://www.the-launch-pad.com/#!hellfire/c14ur)
-  - [AGM-84 Harpoon](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
   - [AIM-54 (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
-  - [FLAIL](http://www.the-launch-pad.com/#!blank/c1j13)
-  - [Photon Probe](http://www.allrocketengines.ca/Rockets/Photon-Probe)
+  - [AGM-114 Hellfire](http://www.the-launch-pad.com/#!hellfire/c14ur)
+  - [Kerbal Space Program](https://kerbalspaceprogram.com/)
   - [Fusée Tintin](http://en.wikipedia.org/wiki/Explorers_on_the_Moon)
     - à partir de kits [V2](http://www.allrocketengines.ca/Rockets/V2), faire
       la FLR-6 ET la fusée qui va sur la lune
+
+  - [AGM-84 Harpoon](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
+  - [FLAIL](http://www.the-launch-pad.com/#!blank/c1j13)
+  - [Photon Probe](http://www.allrocketengines.ca/Rockets/Photon-Probe)
   - [Der Red Max](http://www.estesrockets.com/der-red-maxtm) plus lourd et lent
-  - Fusée inspirée du [Kerbal Space Program](https://kerbalspaceprogram.com/)
 
 ### Décomissionnées (brisées, perdues, données...)
 
