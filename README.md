@@ -17,10 +17,12 @@ de fusées modèles mené par un oncle et son neveu favori.
 ## À faire
 
 - Ajouter info nouvelles (et futures) fusées
-- Trouver une façon que git traite les fichiers .ork comme du texte
+  - Novia
+  - Astra 1
 - Éditer fichiers Open Rocket (versions stock)
+  - Novia
+  - Astra 1
   - Soumettre [www.thrustcurve.com](www.thrustcurve.com)
-- Ajouter lien SPAG dans ma signature sur TRF
 
 ## Flotte de fusées
 
@@ -57,5 +59,4 @@ de fusées modèles mené par un oncle et son neveu favori.
   - [Der Red Max](http://www.estesrockets.com/der-red-maxtm) plus lourd et lent
 
 ### Décomissionnées (brisées, perdues, données...)
-
 
