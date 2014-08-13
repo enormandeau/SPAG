@@ -8,7 +8,7 @@
 
 ## Vidéos
 
-[Lancement avec caméra fixée sur la fusée](https://www.youtube.com/user/maroonedmorlock/videos)
+[Lancement avec caméra fixée sur la fusée](https://www.youtube.com/watch?v=RkHoIsL2JAk&list=UUdvEglqAz7toK5MfsUc-blQ)
 
 ## Description
 
