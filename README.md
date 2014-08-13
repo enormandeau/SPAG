@@ -47,6 +47,17 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Décomissionnées
 
+### Idées pour futur
+
+- [**AGM-114 Hellfire**](http://www.the-launch-pad.com/#!hellfire/c14ur)
+- [**AGM-84 Harpoon**](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
+- [**AIM-54** (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
+- [**FLAIL**](http://www.the-launch-pad.com/#!blank/c1j13)
+- [**Fusée Tintin**](http://en.wikipedia.org/wiki/Explorers_on_the_Moon)
+- [**Kerbal Space Program**](https://kerbalspaceprogram.com/)
+- [**Photon Probe**](http://www.allrocketengines.ca/Rockets/Photon-Probe)
+- [**SA-14 Archer**](http://www.jcrocket.com/sa14archer.shtml)
+
 ## Vols
 
 ### 2014
@@ -63,16 +74,4 @@ de fusées modèles mené par un oncle et son neveu favori.
 - B6-4 (4.3N): 6
 - C6-3 (8.8N): 4
 - C6-5 (8.8N): 0
-
-## Idées pour futur
-
-- [**AGM-114 Hellfire**](http://www.the-launch-pad.com/#!hellfire/c14ur)
-- [**AGM-84 Harpoon**](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
-- [**AIM-54** (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
-- [**FLAIL**](http://www.the-launch-pad.com/#!blank/c1j13)
-- [**Fusée Tintin**](http://en.wikipedia.org/wiki/Explorers_on_the_Moon)
-- [**Kerbal Space Program**](https://kerbalspaceprogram.com/)
-- [**Photon Probe**](http://www.allrocketengines.ca/Rockets/Photon-Probe)
-- [**SA-14 Archer**](http://www.jcrocket.com/sa14archer.shtml)
-
 
