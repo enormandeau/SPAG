@@ -16,7 +16,9 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Ajouter info nouvelles (et futures) fusées
+- Passer à l'anglais
+- Lier sur Rocketry Forum
+- Ajouter info nouvelles fusées
   - Novia
   - Astra 1
 - Éditer fichiers Open Rocket (versions stock)

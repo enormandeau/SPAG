@@ -12,7 +12,7 @@
 - **Company**: Quest
 - **Skill level**: 1
 - **Bought on**: 2014-06-23
-- **Built on**: 2014-07-09 to ...
+- **Built on**: 2014-07-09 to 2014-08-05
 - **Recommended engines**: A6-4, A8-3, B4-4, B6-4, C6-5
 - **Projected maximum altitude**: 1000 ft. (305 m)
 
