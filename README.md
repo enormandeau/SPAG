@@ -47,6 +47,23 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Décomissionnées
 
+## Vols
+
+### 2014
+
+#### Stats
+
+- Nombre de vols: 14
+- Fusées perdues: 0
+- Poussée totale: 61.6 Newtons
+
+#### Moteurs
+
+- A8-3 (2.3N): 4
+- B6-4 (4.3N): 6
+- C6-3 (8.8N): 4
+- C6-5 (8.8N): 0
+
 ## Idées pour futur
 
 - [**AGM-114 Hellfire**](http://www.the-launch-pad.com/#!hellfire/c14ur)
