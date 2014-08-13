@@ -18,9 +18,9 @@
 
 ### Painting
 
-![05_first_coat_silver_small.jpg](05_first_coat_silver_small.jpg)
+![05_first_coat_silver_small.jpg](./images/05_first_coat_silver_small.jpg)
 
 ### Finished
 
-![06_finished_small.jpg](06_finished_small.jpg)
+![06_finished_small.jpg](./images/06_finished_small.jpg)
 
