@@ -1,5 +1,7 @@
 # Patriot Gallery
 
+![./images/patriot_rendering.png](./images/patriot_rendering.png)
+
 ## Flying
 
 ## Building
@@ -16,8 +18,9 @@
 
 ### Painting
 
+![05_first_coat_silver_small.jpg](05_first_coat_silver_small.jpg)
+
 ### Finished
 
-
-![./images/patriot_rendering.png](./images/patriot_rendering.png)
+![06_finished_small.jpg](06_finished_small.jpg)
 

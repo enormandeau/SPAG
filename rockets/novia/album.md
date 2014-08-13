@@ -20,3 +20,6 @@
 
 ### Finished
 
+![07_decorated_small.jpg](07_decorated_small.jpg)
+![08_with_friends_small.jpg](08_with_friends_small.jpg)
+

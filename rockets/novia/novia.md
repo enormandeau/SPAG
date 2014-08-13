@@ -12,7 +12,7 @@
 - **Company**: Quest
 - **Skill level**: 1
 - **Bought on**: 2014-06-23
-- **Built on**: 2014-07-12 to ...
+- **Built on**: 2014-07-12 to 2014-08-05
 - **Recommended engines**: A6-4, A8-5, **B6-4, B6-5, C6-5**, C6-7
 - **Projected maximum altitude**: 1800 ft. (548 m.)
 
@@ -44,5 +44,7 @@
 
 ## Flights
 
-- #1, yyyy-mm-dd, wind, motor, takeof, flight, deployment, recovery
+- #1, 2014-08-05, 10 km/h, A8-3, perfect takeoff, flight. Streamer detached on deployment but recovery fine
+- #2, 2014-08-06, 10-20 km/h, B6-4, perfect takeoff, flight, deployment and recovery
+- #3, 2014-08-08, 5-20 km/h, A8-3, perfect takeoff, flight, deployment and recovery
 

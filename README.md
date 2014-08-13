@@ -48,8 +48,6 @@ de fusées modèles mené par un oncle et son neveu favori.
 - [**V2**](http://www.estesrockets.com/rockets/kits/skill-3/003228-v2-semi-scale-model) en 24 mm couleurs FLR-6 de Tintin
 - [**Der Red Max**](http://www.estesrockets.com/der-red-maxtm) en 24 mm avec payload
 
-### Décomissionnées
-
 ### Idées pour futur
 
 - [**AGM-114 Hellfire**](http://www.the-launch-pad.com/#!hellfire/c14ur)

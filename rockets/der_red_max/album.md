@@ -12,7 +12,11 @@
 
 ### Preparing and building the parts
 
+![02_built_unpainted_small.jpg]()
+
 ### Painting
 
 ### Finished
+
+![03_finished_small.jpg](03_finished_small.jpg)
 
