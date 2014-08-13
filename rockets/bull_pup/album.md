@@ -12,7 +12,7 @@
 
 ### Preparing and building the parts
 
-![04_tube_cone_and_tailcone_small.jpg](04_tube_cone_and_tailcone_small.jpg)
+![04_tube_cone_and_tailcone_small.jpg](./images/04_tube_cone_and_tailcone_small.jpg)
 
 ### Painting
 

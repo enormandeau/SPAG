@@ -26,15 +26,15 @@ inside the tube and made fillets.
 
 ## Painting
 
-![08_painted_black_small.jpg](08_painted_black_small.jpg)
+![08_painted_black_small.jpg](./images/08_painted_black_small.jpg)
 
 ### Finished
 
-![09_finished_small.jpg](09_finished_small.jpg)
-![10_with_friends_small.jpg](10_with_friends_small.jpg)
+![09_finished_small.jpg](./images/09_finished_small.jpg)
+![10_with_friends_small.jpg](./images/10_with_friends_small.jpg)
 
 ### Launching
 
-![11_prepared_for_launch_small.jpg](11_prepared_for_launch_small.jpg)
-![12_countdown_small.jpg](12_countdown_small.jpg)
-![13_liftoff_small.jpg](13_liftoff_small.jpg)
+![11_prepared_for_launch_small.jpg](./images/11_prepared_for_launch_small.jpg)
+![12_countdown_small.jpg](./images/12_countdown_small.jpg)
+![13_liftoff_small.jpg](./images/13_liftoff_small.jpg)
