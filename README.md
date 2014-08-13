@@ -1,8 +1,8 @@
-# SPAG
+# Super Programme Aérospatial de Grondines
 
 ![Super logo du SPAG!](logo/logo_spag_v03_small.png)
 
-Le *Super Programme Aérospatial de Grondine* (**SPAG**) est un projet de vol
+Le *Super Programme Aérospatial de Grondines* (**SPAG**) est un projet de vol
 de fusées modèles mené par un oncle et son neveu favori.
 
 ## Objectifs
@@ -46,8 +46,6 @@ de fusées modèles mené par un oncle et son neveu favori.
 - [**Der Red Max**](http://www.estesrockets.com/der-red-maxtm) en 24 mm avec payload
 
 ### Décomissionnées
-
-- Aucune :)
 
 ## Idées pour futur
 
