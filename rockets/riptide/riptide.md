@@ -6,6 +6,10 @@
 
 [Gallerie d'images](album.md)
 
+## Vidéos
+
+[Lancement avec caméra fixée sur la fusée](https://www.youtube.com/user/maroonedmorlock/videos)
+
 ## Description
 
 - **Name**: Riptide
