@@ -28,17 +28,20 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Actives
 
-- [**Riptide**](rockets/riptide/riptide.md) (3 vol)
-- [**Viking**](rockets/viking/viking.md) (1 vol)
-- [**Astra 1**](rockets/astra_1/astra_1.md)
+- [**Astra 1**](rockets/astra_1/astra_1.md) (1 vol)
 - [**Patriot**](rockets/patriot/patriot.md)
-- [**Novia**](rockets/novia/novia.md) (donnée à Damien)
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (donnée à Damien)
+- [**Riptide**](rockets/riptide/riptide.md) (8 vols)
+- [**Viking**](rockets/viking/viking.md) (1 vol)
+
+### Données à Damien
+
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (1 vol)
+- [**Novia**](rockets/novia/novia.md) (3 vols)
 
 ### En construction
 
 - [**Grid Bug**](rockets/grid_bug/grid_bug.md)
-- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (seul)
+- [**Bull Pup**](rockets/bull_pup/bull_pup.md)
 
 ### À construire
 
