@@ -31,8 +31,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 ### Actives
 
 - [**Astra 1**](rockets/astra_1/astra_1.md) (Active, 1 vol)
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (Données à Damien, 1 vol)
-- [**Novia**](rockets/novia/novia.md) (Données à Damien, 3 vols)
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (Donnée à Damien, 1 vol)
+- [**Novia**](rockets/novia/novia.md) (Donnée à Damien, 3 vols)
 - [**Patriot**](rockets/patriot/patriot.md) (Active, 0 vol)
 - [**Riptide**](rockets/riptide/riptide.md) (Active, 8 vols)
 - [**Viking**](rockets/viking/viking.md) (Active, 1 vol)
@@ -54,14 +54,14 @@ de fusées modèles mené par un oncle et son neveu favori.
 - [**Kerbal Space Program**](https://kerbalspaceprogram.com/)
 - [**Photon Probe**](http://www.allrocketengines.ca/Rockets/Photon-Probe)
 - [**SA-14 Archer**](http://www.jcrocket.com/sa14archer.shtml)
-- [**AMG-62 Walleye**]()
-- [**AMG=65 Maverick**]()
-- [**AS-37 Martel**]()
-- [**MM-38 Exocet**]()
-- [**Nike Ajax**]()
-- [**Nike Hercules**]()
-- [**Nike Zeus**]()
-- [**RB-83 ???**]()
+- AMG-62 Walleye
+- AMG=65 Maverick
+- AS-37 Martel
+- MM-38 Exocet
+- Nike Ajax
+- Nike Hercules
+- Nike Zeus
+- RB-83 ???
 
 ## Vols
 
