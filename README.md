@@ -30,25 +30,19 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Actives
 
-- [**Astra 1**](rockets/astra_1/astra_1.md) (1 vol)
-- [**Patriot**](rockets/patriot/patriot.md)
-- [**Riptide**](rockets/riptide/riptide.md) (8 vols)
-- [**Viking**](rockets/viking/viking.md) (1 vol)
+- [**Astra 1**](rockets/astra_1/astra_1.md) (Active, 1 vol)
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (Données à Damien, 1 vol)
+- [**Novia**](rockets/novia/novia.md) (Données à Damien, 3 vols)
+- [**Patriot**](rockets/patriot/patriot.md) (Active, 0 vol)
+- [**Riptide**](rockets/riptide/riptide.md) (Active, 8 vols)
+- [**Viking**](rockets/viking/viking.md) (Active, 1 vol)
 
-### Données à Damien
+### Construction
 
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (1 vol)
-- [**Novia**](rockets/novia/novia.md) (3 vols)
-
-### En construction
-
-- [**Grid Bug**](rockets/grid_bug/grid_bug.md)
-- [**Bull Pup**](rockets/bull_pup/bull_pup.md)
-
-### À construire
-
-- [**V2**](http://www.estesrockets.com/rockets/kits/skill-3/003228-v2-semi-scale-model) en 24 mm couleurs FLR-6 de Tintin
-- [**Der Red Max**](http://www.estesrockets.com/der-red-maxtm) en 24 mm avec payload
+- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (en construction)
+- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (en construction)
+- [**V2**](http://www.estesrockets.com/rockets/kits/skill-3/003228-v2-semi-scale-model) en 24 mm couleurs FLR-6 de Tintin (à construire)
+- [**Der Red Max**](http://www.estesrockets.com/der-red-maxtm) en 24 mm avec payload (à construire)
 
 ### Idées pour futur
 
@@ -60,6 +54,15 @@ de fusées modèles mené par un oncle et son neveu favori.
 - [**Kerbal Space Program**](https://kerbalspaceprogram.com/)
 - [**Photon Probe**](http://www.allrocketengines.ca/Rockets/Photon-Probe)
 - [**SA-14 Archer**](http://www.jcrocket.com/sa14archer.shtml)
+
+- [AMG-62 Walleye]()
+- [AMG=65 Maverick]()
+- [AS-37 Martel]()
+- [MM-38 Exocet]()
+- [Nike Ajax]()
+- [Nike Hercules]()
+- [Nike Zeus]()
+- [RB-83 ???]()
 
 ## Vols
 
@@ -73,8 +76,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Moteurs
 
-- A8-3 (2.3N): 4
-- B6-4 (4.3N): 6
-- C6-3 (8.8N): 4
-- C6-5 (8.8N): 0
+- A8-3 (18 mm, 2.3N): 4
+- B6-4 (18 mm, 4.3N): 6
+- C6-3 (18 mm, 8.8N): 4
+- C6-5 (18 mm, 8.8N): 0
 
