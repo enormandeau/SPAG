@@ -62,7 +62,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 - Nike Ajax
 - Nike Hercules
 - Nike Zeus
-- RB-83 ???
+- RB-83
 
 ## Vols
 
@@ -70,14 +70,14 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Stats
 
-- Nombre de vols: 14
+- Nombre de vols: 16
 - Fusées perdues: 0
-- Poussée totale: 61.6 Newtons
+- Poussée totale: 79.2 Newtons
 
 #### Moteurs
 
 - A8-3 (18 mm, 2.3N): 4
 - B6-4 (18 mm, 4.3N): 6
-- C6-3 (18 mm, 8.8N): 4
+- C6-3 (18 mm, 8.8N): 6
 - C6-5 (18 mm, 8.8N): 0
 
