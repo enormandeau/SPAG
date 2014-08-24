@@ -1,6 +1,6 @@
 # Available motors
 
-## Motors available at [AllRocketEngines](http://www.allrocketengines.ca/)
+## Motors available at [AllRocketEngines](http://www.allrocketengines.ca/Engines)
 
 Designation | Company | Diameter | Length | Impulse
 ---|---|---|---|---
