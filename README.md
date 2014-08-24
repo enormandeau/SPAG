@@ -30,12 +30,12 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Actives
 
-- [**Astra 1**](rockets/astra_1/astra_1.md) (Active, 1 vol)
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (Donnée à Damien, 1 vol)
-- [**Novia**](rockets/novia/novia.md) (Donnée à Damien, 3 vols)
-- [**Patriot**](rockets/patriot/patriot.md) (Active, 0 vol)
+- [**Astra 1**](rockets/astra_1/astra_1.md) (Active, 3 vols)
+- [**Patriot**](rockets/patriot/patriot.md) (Active, 2 vols)
 - [**Riptide**](rockets/riptide/riptide.md) (Active, 8 vols)
 - [**Viking**](rockets/viking/viking.md) (Active, 1 vol)
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (Donnée à Damien, 1 vol)
+- [**Novia**](rockets/novia/novia.md) (Donnée à Damien, 3 vols)
 
 ### Construction
 
@@ -70,14 +70,14 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Stats
 
-- Nombre de vols: 16
+- Nombre de vols: 18
 - Fusées perdues: 0
-- Poussée totale: 79.2 Newtons
+- Poussée totale: 92.3 Newtons
 
 #### Moteurs
 
 - A8-3 (18 mm, 2.3N): 4
-- B6-4 (18 mm, 4.3N): 6
+- B6-4 (18 mm, 4.3N): 5
 - C6-3 (18 mm, 8.8N): 6
-- C6-5 (18 mm, 8.8N): 0
+- C6-5 (18 mm, 8.8N): 1
 
