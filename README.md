@@ -16,15 +16,11 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
+- Construire fusée pour payload
+- Prendre infos CAR et Tripoli Québec
+  - Abonnement
+  - Altitude maximale sans permi
 - Passer à l'anglais
-- Lier sur Rocketry Forum
-- Ajouter info nouvelles fusées
-  - Novia
-  - Astra 1
-- Éditer fichiers Open Rocket (versions stock)
-  - Novia
-  - Astra 1
-  - Soumettre [www.thrustcurve.com](www.thrustcurve.com)
 
 ## Flotte de fusées
 
@@ -39,10 +35,14 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Construction
 
-- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (en construction)
-- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (en construction)
-- [**V2**](http://www.estesrockets.com/rockets/kits/skill-3/003228-v2-semi-scale-model) en 24 mm couleurs FLR-6 de Tintin (à construire)
+- Fusée 2 étages pour payload pour moteurs D et E (24x70 et 24x95 mm)
+  - Trouver nom
+  - Construire payload bay
+  - Construire rapidement
+- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (reste à peinturer)
 - [**Der Red Max**](http://www.estesrockets.com/der-red-maxtm) en 24 mm avec payload (à construire)
+- [**V2**](http://www.estesrockets.com/rockets/kits/skill-3/003228-v2-semi-scale-model) en 24 mm couleurs FLR-6 de Tintin (à construire)
+- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (en construction)
 
 ### Idées pour futur
 
@@ -72,12 +72,13 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 - Nombre de vols: 18
 - Fusées perdues: 0
-- Poussée totale: 92.3 Newtons
+- Poussée totale: 96.4 Newtons
 
 #### [Moteurs](https://github.com/enormandeau/SPAG/blob/master/fichiers_utiles/motors.md)
 
-- A8-3 (18 mm, 2.3N): 4
-- B6-4 (18 mm, 4.3N): 5
-- C6-3 (18 mm, 8.8N): 6
-- C6-5 (18 mm, 8.8N): 1
+- Estes A8-3 (18 mm, 2.3N): 4
+- Estes B6-4 (18 mm, 4.3N): 8
+- Estes C6-3 (18 mm, 8.8N): 5
+- Estes C6-5 (18 mm, 8.8N): 1
+- AeroTech D10-5W (18 mm, 20N): 0
 
