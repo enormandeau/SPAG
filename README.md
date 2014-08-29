@@ -16,6 +16,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
+- Ajouter page pour V2 et Payloader
+- Mettre galleries à jour
 - Prendre infos CAR et CFQ en 2015
 - Passer repository à l'anglais
 
