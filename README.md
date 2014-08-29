@@ -16,11 +16,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Construire fusée pour payload
-- Prendre infos CAR et Tripoli Québec
-  - Abonnement
-  - Altitude maximale sans permi
-- Passer à l'anglais
+- Prendre infos CAR et CFQ en 2015
+- Passer repository à l'anglais
 
 ## Flotte de fusées
 
@@ -36,9 +33,9 @@ de fusées modèles mené par un oncle et son neveu favori.
 ### Construction
 
 - Fusée 2 étages pour payload pour moteurs D et E (24x70 et 24x95 mm)
-  - Trouver nom
   - Construire payload bay
   - Construire rapidement
+  - Trouver nom
 - [**Bull Pup**](rockets/bull_pup/bull_pup.md) (reste à peinturer)
 - [**Der Red Max**](http://www.estesrockets.com/der-red-maxtm) en 24 mm avec payload (à construire)
 - [**V2**](http://www.estesrockets.com/rockets/kits/skill-3/003228-v2-semi-scale-model) en 24 mm couleurs FLR-6 de Tintin (à construire)
@@ -61,6 +58,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 - MM-38 Exocet
 - Nike Ajax
 - Nike Hercules
+- Nike Smoke
 - Nike Zeus
 - RB-83
 
