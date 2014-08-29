@@ -64,6 +64,12 @@ de fusées modèles mené par un oncle et son neveu favori.
 - Nike Zeus
 - RB-83
 
+### Autres projets de construction
+- Avion rouge et blanc en bois
+- Fusée Tintin en plâtre (15 cm)
+- Sakonnet Daysailer balsa boat kit
+- Mig 21 MF Fishbed 1:48 kit
+
 ## Vols
 
 ### 2014
