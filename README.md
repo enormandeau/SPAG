@@ -42,12 +42,11 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Idées pour futur
 
-- [**AGM-114 Hellfire**](http://www.the-launch-pad.com/#!hellfire/c14ur)
-- [**AGM-84 Harpoon**](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
-- [**AIM-54** (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
 - [**FLAIL**](http://www.the-launch-pad.com/#!blank/c1j13)
 - [**Fusée Tintin**](http://en.wikipedia.org/wiki/Explorers_on_the_Moon)
-- [**Kerbal Space Program**](https://kerbalspaceprogram.com/)
+- [**AGM-114 Hellfire**](http://www.the-launch-pad.com/#!hellfire/c14ur)
+- [**AIM-54** (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
+- [**AGM-84 Harpoon**](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
 - [**Photon Probe**](http://www.allrocketengines.ca/Rockets/Photon-Probe)
 - [**SA-14 Archer**](http://www.jcrocket.com/sa14archer.shtml)
 - AGM-256 Pit Bull
