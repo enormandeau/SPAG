@@ -25,23 +25,20 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Actives
 
-- [**Astra 1**](rockets/astra_1/astra_1.md) (Active, 3 vols)
-- [**Patriot**](rockets/patriot/patriot.md) (Active, 2 vols)
-- [**Riptide**](rockets/riptide/riptide.md) (Active, 8 vols)
-- [**Viking**](rockets/viking/viking.md) (Active, 1 vol)
-- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (Donnée à Damien, 1 vol)
-- [**Novia**](rockets/novia/novia.md) (Donnée à Damien, 3 vols)
+- [**Riptide**](rockets/riptide/riptide.md) (Active, 18mm, 8 vols)
+- [**Viking**](rockets/viking/viking.md) (Active, 18mm, 1 vol)
+- [**Novia**](rockets/novia/novia.md) (Donnée à Damien, 18mm, 3 vols)
+- [**Astra 1**](rockets/astra_1/astra_1.md) (Active, 18mm, 3 vols)
+- [**Der Red Max**](rockets/der_red_max/der_red_max.md) (Donnée à Damien, 18mm, 1 vol)
+- [**Patriot**](rockets/patriot/patriot.md) (Active, 18mm, 2 vols)
+- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (Active, 18mm, 2 vols)
 
 ### Construction
 
-- Fusée 2 étages pour payload pour moteurs D et E (24x70 et 24x95 mm)
-  - Construire payload bay
-  - Construire rapidement
-  - Trouver nom
-- [**Bull Pup**](rockets/bull_pup/bull_pup.md) (reste à peinturer)
-- [**Der Red Max**](http://www.estesrockets.com/der-red-maxtm) en 24 mm avec payload (à construire)
-- [**V2**](http://www.estesrockets.com/rockets/kits/skill-3/003228-v2-semi-scale-model) en 24 mm couleurs FLR-6 de Tintin (à construire)
-- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (en construction)
+- Critical Mass, deux étages et payload (D et E, 24x70 et 24x95 mm)
+- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (18mm, en construction)
+- [**V2**](http://www.estesrockets.com/rockets/kits/skill-3/003228-v2-semi-scale-model) (24mm, à construire)
+- [**Der Red Max 2**](http://www.estesrockets.com/der-red-maxtm) (18mm, à construire)
 
 ### Idées pour futur
 
@@ -76,15 +73,15 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Stats
 
-- Nombre de vols: 18
+- Nombre de vols: 23
 - Fusées perdues: 0
-- Poussée totale: 96.4 Newtons
+- Poussée totale: 142.6 Newtons
 
 #### [Moteurs](https://github.com/enormandeau/SPAG/blob/master/fichiers_utiles/motors.md)
 
 - Estes A8-3 (18 mm, 2.3N): 4
-- Estes B6-4 (18 mm, 4.3N): 8
-- Estes C6-3 (18 mm, 8.8N): 5
-- Estes C6-5 (18 mm, 8.8N): 1
-- AeroTech D10-5W (18 mm, 20N): 0
+- Estes B6-4 (18 mm, 4.3N): 10
+- Estes C6-3 (18 mm, 8.8N): 6
+- Estes C6-5 (18 mm, 8.8N): 2
+- AeroTech D10-5W (18 mm, 20N): 1
 
