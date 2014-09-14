@@ -23,5 +23,3 @@
 
 ### Finished
 
-estes-bull_pup.jpg
-
