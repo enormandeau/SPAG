@@ -1,5 +1,5 @@
 # Critical Mass album
-critical_mass_rendering.png
+![critical_mass_rendering.png](./images/critical_mass_rendering.png)
 
 ## Flying
 
