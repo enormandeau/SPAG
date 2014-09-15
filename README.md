@@ -35,7 +35,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Construction
 
-- Critical Mass, deux étages et payload (D et E, 24x70 et 24x95 mm)
+- [**Critical Mass**](rockets/critical_mass/critical_mass.md) Design maison avec deux étages et payload (D et E, 24x70 et 24x95 mm)
 - [**Grid Bug**](rockets/grid_bug/grid_bug.md) (18mm)
 - [**V2**](rockets/v2/v2.md) (24mm)
 - [**Der Red Max 2**](http://www.estesrockets.com/der-red-maxtm) (18mm, à construire)
