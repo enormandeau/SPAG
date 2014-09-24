@@ -35,15 +35,16 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Construction
 
-- [**Critical Mass**](rockets/critical_mass/critical_mass.md) Design maison avec deux étages et payload (D et E, 24x70 et 24x95 mm)
-- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (18mm)
-- [**V2**](rockets/v2/v2.md) (24mm)
+- [**Critical Mass**](rockets/critical_mass/critical_mass.md) Deux étages + Payload (D et E, 24x70 et 24x95 mm)
+- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (18mm, à peinturer)
+- [**V2**](rockets/v2/v2.md) (24mm, à construire)
 - [**Der Red Max 2**](http://www.estesrockets.com/der-red-maxtm) (18mm, à construire)
+- [**FLAIL**](http://www.the-launch-pad.com/#!blank/c1j13) (24mm, à construire)
 
 ### Idées pour futur
 
-- [**FLAIL**](http://www.the-launch-pad.com/#!blank/c1j13)
 - [**Fusée Tintin**](http://en.wikipedia.org/wiki/Explorers_on_the_Moon)
+- **Wasserfall**
 - [**AGM-114 Hellfire**](http://www.the-launch-pad.com/#!hellfire/c14ur)
 - [**AIM-54** (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
 - [**AGM-84 Harpoon**](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
