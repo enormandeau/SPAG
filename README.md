@@ -79,7 +79,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### [Moteurs](https://github.com/enormandeau/SPAG/blob/master/fichiers_utiles/motors.md)
 
-** Moteurs utilisés (2014-10-06)
+** Moteurs utilisés** (2014-10-06)
 - Estes A8-3 (18 mm, 2.3N): 5
 - Estes B4-4 (18 mm, 4.3N): 1
 - Estes B6-4 (18 mm, 4.3N): 10
