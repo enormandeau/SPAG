@@ -16,9 +16,6 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ## À faire
 
-- Ajouter page pour V2 et Payloader
-- Mettre galleries à jour
-- Prendre infos CAR et CFQ en 2015
 - Passer repository à l'anglais
 
 ## Flotte de fusées
@@ -62,9 +59,9 @@ de fusées modèles mené par un oncle et son neveu favori.
 - RB-83
 
 ### Autres projets de construction
-- Avion rouge et blanc en bois
-- Fusée Tintin en plâtre (15 cm)
+- Avion Fokker DR1 du baron Manfred Von Richtofen
 - Sakonnet Daysailer balsa boat kit
+- Fusée Tintin en plâtre (15 cm)
 - Mig 21 MF Fishbed 1:48 kit
 
 ## Vols
