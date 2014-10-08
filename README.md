@@ -73,17 +73,19 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Stats
 
-- Nombre de vols: 26
+- Nombre de vols: 28
 - Fusées perdues: 0
-- Poussée totale: 158.0 Newtons
+- Poussée totale: 202.0 Newtons
 
 #### [Moteurs](https://github.com/enormandeau/SPAG/blob/master/fichiers_utiles/motors.md)
 
 **Moteurs utilisés** (2014-10-06)
-- Estes A8-3 (18 mm, 2.3N): 5
-- Estes B4-4 (18 mm, 4.3N): 1
-- Estes B6-4 (18 mm, 4.3N): 10
-- Estes C6-3 (18 mm, 8.8N): 7
-- Estes C6-5 (18 mm, 8.8N): 2
-- AeroTech D10-5W (18 mm, 20N): 1
+- Estes A8-3 (18 mm, 2.3N):	5
+- Estes B4-4 (18 mm, 4.3N):	1
+- Estes B6-4 (18 mm, 4.3N):	10
+- Estes C6-3 (18 mm, 8.8N):	7
+- Estes C6-5 (18 mm, 8.8N):	2
+- Estes D12-5 (24 mm, 16.8N):	1
+- AeroTech D10-5W (18 mm, 20N):	1
+- Estes E12-5 (24 mm, 27.2):	1
 
