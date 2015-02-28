@@ -28,14 +28,16 @@ de fusées modèles mené par un oncle et son neveu favori.
 - [**Astra 1**](rockets/astra_1/astra_1.md) (Active, 18mm, 3 vols)
 - [**Der Red Max**](rockets/der_red_max/der_red_max.md) (Donnée à Damien, 18mm, 1 vol)
 - [**Patriot**](rockets/patriot/patriot.md) (Active, 18mm, 2 vols)
+
+### Lost
+
 - [**Bull Pup**](rockets/bull_pup/bull_pup.md) (Active, 18mm, 2 vols)
+- [**Fission**](rockets/critical_mass/critical_mass.md) Deux étages + Payload (D et E, 24x70 et 24x95 mm)
 
 ### Construction
 
-- [**Critical Mass**](rockets/critical_mass/critical_mass.md) Deux étages + Payload (D et E, 24x70 et 24x95 mm)
 - [**Grid Bug**](rockets/grid_bug/grid_bug.md) (18mm, à peinturer)
 - [**V2**](rockets/v2/v2.md) (24mm, à construire)
-- [**Der Red Max 2**](http://www.estesrockets.com/der-red-maxtm) (18mm, à construire)
 - [**FLAIL**](http://www.the-launch-pad.com/#!blank/c1j13) (24mm, à construire)
 
 ### Idées pour futur
@@ -49,7 +51,8 @@ de fusées modèles mené par un oncle et son neveu favori.
 - [**SA-14 Archer**](http://www.jcrocket.com/sa14archer.shtml)
 - AGM-256 Pit Bull
 - AMG-62 Walleye
-- AMG=65 Maverick
+- AMG-65 Maverick
+- AMG-33 Pike
 - AS-37 Martel
 - MM-38 Exocet
 - Nike Ajax
@@ -70,7 +73,7 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 #### Stats
 
-- Nombre de vols: 28
+- Nombre de vols: 32
 - Fusées perdues: 0
 - Poussée totale: 202.0 Newtons
 
