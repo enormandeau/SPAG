@@ -80,7 +80,7 @@ Aucun vol à date.
 #### Stats
 
 - Nombre de vols: 32
-- Fusées perdues: 2
+- Fusées perdues: 2 (Estes Bullpup et Scratch Fission)
 - Poussée totale: 376.0 Newtons
 
 #### [Moteurs](https://github.com/enormandeau/SPAG/blob/master/fichiers_utiles/motors.md)
