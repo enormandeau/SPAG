@@ -87,17 +87,13 @@ Aucun vol à date.
 
 **Moteurs utilisés** (2014-10-11)
 - Estes A8-3 (18 mm, 2.3N):	6
-
 - Estes B4-3 (18 mm, 4.3N):	10
 - Estes B6-4 (18 mm, 4.3N):	11
-
 - Estes C6-3 (18 mm, 8.8N):	7
 - Estes C6-5 (18 mm, 8.8N):	2
-
 - Estes D12-0 (24 mm, 16.8N):	1
 - Estes D12-5 (24 mm, 16.8N):	2
 - AeroTech D10-5W (18 mm, 20N):	3
-
 - Estes E9-6 (24 mm, 27.9N):	1
 - Estes E12-0 (24 mm, 27.2N):	1
 - Estes E12-6 (24 mm, 27.2N):	1
