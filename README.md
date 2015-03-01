@@ -80,18 +80,25 @@ Aucun vol à date.
 #### Stats
 
 - Nombre de vols: 32
-- Fusées perdues: 0
-- Poussée totale: 202.0 Newtons
+- Fusées perdues: 2
+- Poussée totale: 376.0 Newtons
 
 #### [Moteurs](https://github.com/enormandeau/SPAG/blob/master/fichiers_utiles/motors.md)
 
-**Moteurs utilisés** (2014-10-06)
-- Estes A8-3 (18 mm, 2.3N):	5
-- Estes B4-4 (18 mm, 4.3N):	1
-- Estes B6-4 (18 mm, 4.3N):	10
+**Moteurs utilisés** (2014-10-11)
+- Estes A8-3 (18 mm, 2.3N):	6
+
+- Estes B4-3 (18 mm, 4.3N):	10
+- Estes B6-4 (18 mm, 4.3N):	11
+
 - Estes C6-3 (18 mm, 8.8N):	7
 - Estes C6-5 (18 mm, 8.8N):	2
-- Estes D12-5 (24 mm, 16.8N):	1
-- AeroTech D10-5W (18 mm, 20N):	1
-- Estes E12-5 (24 mm, 27.2):	1
+
+- Estes D12-0 (24 mm, 16.8N):	1
+- Estes D12-5 (24 mm, 16.8N):	2
+- AeroTech D10-5W (18 mm, 20N):	3
+
+- Estes E9-6 (24 mm, 27.9N):	1
+- Estes E12-0 (24 mm, 27.2N):	1
+- Estes E12-6 (24 mm, 27.2N):	1
 
