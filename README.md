@@ -2,21 +2,17 @@
 
 ![Super logo du SPAG!](logo/logo_spag_v03_small.png)
 
-Le *Super Programme Aérospatial de Grondines* (**SPAG**) est un projet de vol
-de fusées modèles mené par un oncle et son neveu favori.
+Le *Super Programme Aérospatial de Grondines* (**SPAG**) est un projet de
+construction et de vol de fusées modèles mené par un oncle et son neveu favori.
 
 ## Objectifs
 
-- Activité plaisante et stimulante avec neveu
-- Créer des bons souvenirs (album photo...)
+- Activité cool et stimulante avec neveu
 - Développer sécurité et responsabiliser
 - En apprendre plus sur l'aéronautique
 - Camp de fusées durant vacances
+- Créer des bons souvenirs
 - Encourager persévérence
-
-## À faire
-
-- Passer repository à l'anglais
 
 ## Flotte de fusées
 
@@ -36,16 +32,16 @@ de fusées modèles mené par un oncle et son neveu favori.
 
 ### Construction
 
-- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (18mm, à peinturer)
-- [**V2**](rockets/v2/v2.md) (24mm, à construire)
+- [**V2**](rockets/v2/v2.md) (24mm, en construction)
 - [**FLAIL**](http://www.the-launch-pad.com/#!blank/c1j13) (24mm, à construire)
-- **MIM-23 HAWK**
+- [**Grid Bug**](rockets/grid_bug/grid_bug.md) (18mm, à peinturer)
+- [**MIM-23 HAWK**](https://www.discountrocketry.com/images/images_big/mc_k_151.jpg) (24mm, à construire)
 
 ### Idées pour futur
 
 - [**Fusée Tintin**](http://en.wikipedia.org/wiki/Explorers_on_the_Moon)
-- **Wasserfall**
-- AMG-33 Pike
+- [**Wasserfall**](http://upload.wikimedia.org/wikipedia/commons/c/ca/Hermes_A-1_with_gantry.jpg)
+- [**AMG-33 Pike**](https://www.allrocketengines.ca/images/medium/mini-agm-pike-madcow_MED.jpg)
 - [**AGM-114 Hellfire**](http://www.the-launch-pad.com/#!hellfire/c14ur)
 - [**AGM-84 Harpoon**](http://www.allrocketengines.ca/Rockets/Harpoon-AGM)
 - [**AIM-54** (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
@@ -71,9 +67,13 @@ de fusées modèles mené par un oncle et son neveu favori.
 ## Vols
 
 ### 2015
+Aucun vol à date.
+
 #### Stats
+
 #### [Moteurs](https://github.com/enormandeau/SPAG/blob/master/fichiers_utiles/motors.md)
 **Moteurs utilisés** (2014-10-06)
+
 
 ### 2014
 
