@@ -15,6 +15,7 @@ D21|             AeroTech|  19.6N|    0.9s
 C11|             Estes|     8.8N|     0.8s
 D12|             Estes|     16.8N|    1.7s
 E15|             AeroTech|  40.0N|    2.7s
+E30|             AeroTech|  39.5N|    1.2s
 **24x95mm**|||
 E12|             Estes|     27.2N|    2.4s
 E9|              Estes|     27.9N|    3.1s
