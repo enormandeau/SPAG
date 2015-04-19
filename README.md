@@ -74,8 +74,6 @@ Aucun vol à date.
 #### Stats
 
 #### [Moteurs](https://github.com/enormandeau/SPAG/blob/master/fichiers_utiles/motors.md)
-**Moteurs utilisés** (2014-10-06)
-
 
 ### 2014
 
