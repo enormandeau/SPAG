@@ -47,6 +47,8 @@ construction et de vol de fusées modèles mené par un oncle et son neveu favor
 - [**AIM-54** (from scratch)](http://www.the-launch-pad.com/#!blank/c7bg)
 - [**Photon Probe**](http://www.allrocketengines.ca/Rockets/Photon-Probe)
 - [**SA-14 Archer**](http://www.jcrocket.com/sa14archer.shtml)
+- [**IRIS-T**](http://en.wikipedia.org/wiki/IRIS-T)
+- [**S-125 Neva/Pechora**](http://en.wikipedia.org/wiki/S-125_Neva/Pechora)
 - AGM-256 Pit Bull
 - AMG-62 Walleye
 - AMG-65 Maverick
