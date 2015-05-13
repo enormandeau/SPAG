@@ -1,5 +1,7 @@
 # Super Programme Aérospatial de Grondines
 
+<h2>Supereapsifpasijf</h2>
+
 ![Super logo du SPAG!](logo/logo_spag_v03_small.png)
 
 Le *Super Programme Aérospatial de Grondines* (**SPAG**) est un projet de
