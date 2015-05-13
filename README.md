@@ -5,11 +5,6 @@
 Le *Super Programme Aérospatial de Grondines* (**SPAG**) est un projet de
 construction et de vol de fusées modèles mené par un oncle et son neveu favori.
 
-<span style="color:#80BFFF">Test de couleur<\span>
-<\br>
-<\br>
-<\br>
-
 ## Objectifs
 
 - Activité cool et stimulante avec neveu
